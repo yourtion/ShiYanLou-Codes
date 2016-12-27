@@ -1,14 +1,17 @@
+# -*- coding: utf-8 -*- 
+
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.linear_model import SGDRegressor
 import random
+import matplotlib.pyplot as plt
 from sklearn.preprocessing import MinMaxScaler
+from sklearn.linear_model import SGDRegressor
 
 # prepare data
 test_subset = pd.read_csv('raw/TestSubset.csv')
 train_subset = pd.read_csv('raw/TrainingSubset.csv')
 
+# 训练集
 train = train_subset.drop(['EbayID','Price','SellerName'],axis=1)
 train_target = train_subset['Price']
 
@@ -47,6 +50,7 @@ def plot_learning(clf,title):
 sgd_regresor = SGDRegressor(penalty='l2',alpha=0.001)
 plot_learning(sgd_regresor,"SGDRegressor")
 
+# 准备测试集查看测试情况
 test = test_subset.drop(['EbayID','Price','SellerName'], axis=1)
 test = scaler.fit_transform(test)
 test_target = test_subset['Price']
