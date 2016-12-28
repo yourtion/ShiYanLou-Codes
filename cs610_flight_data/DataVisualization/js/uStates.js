@@ -207,28 +207,51 @@
   var uStates = {};
 
   uStates.draw = function(id, data) {
+    // vData 用于装载绘图数据
     var vData = data;
     
+    // 该方法用于创建鼠标划过时显示的提示框的 HTML 内容（ div 元素）
     function addTooltipHtml(n, d) { 
+      // 传入的 n 为每个州的全称，用 h4 标签表示
+      // 传入的 d 为每个州的绘图数据，d.num为准点航班数量
       return "<h4>" + n + "</h4><table>" +
         "<tr><td>On Time Flights:</td><td>" + d.num + "</td></tr>"
         "</table>";
     }
 
+    // 当鼠标指针位于元素上方时，会发生 mouseover 事件
+    // 此处定义一个 mouseOver 函数作为发生该事件的回调函数
     function mouseOver(d) {
+      // 传入的 d 为 uStatePaths 中的元素
       var key = d.id;
       var vData = data;
+
+      // 使用 d3.js 的 select() 函数选中 HTML 元素中 id 为 tooltip 的 div 元素
+      // transition() 函数用于启动转变效果，可以用于制作动画
+      // duration(200) 用于设置动画的持续时间为 200 毫秒
+      // style("opacity", .9) 用于设置 div 元素的不透明级别，不透明度为 .9 表示 90% 的不透明度
       d3.select("#tooltip").transition().duration(200).style("opacity", .9);
+
+      // 同样，利用 html()函数调用 addTooltipHtml 函数来向 tooltip 元素注入 html 代码
+      // d.n 表示 sStatePaths 中的 n 成员，即每个州的全称
+      // vData[key] 表示用 key 去查询绘图数据中的每个州的准点航班数量
       d3.select("#tooltip").html(addTooltipHtml(d.n, vData[key]))
         .style("left", (d3.event.pageX) + "px")
         .style("top", (d3.event.pageY - 28) + "px");
     }
 
-
+    // 当鼠标指针不再位于元素上方时，会发生 mouseout 事件
+    // 此处定义一个 mouseOut 函数作为发生该事件的回调函数
     function mouseOut() {
+      // 设置不透明度为 0 ，即相当于让该 div 元素消失
       d3.select("#tooltip").transition().duration(500).style("opacity", 0);
     }
-
+    
+    // 此处的 id 即将会表示 svgstate 元素
+    // 此步骤用于设置所有州的颜色
+    // .data(uStatePaths).enter().append("path") 表示利用 uStatePaths 中的数据绘制路径
+    // .style("fill", function(d) {    }) 表示按照绘图数据中每个州的颜色代码进行填充
+    // .on("mouseover", mouseOver).on("mouseout", mouseOut) 表示设置鼠标覆盖和鼠标移开事件的监听器及回调函数
     d3.select(id).selectAll(".state")
       .data(uStatePaths).enter().append("path").attr("class", "state").attr("d", function(d) {
         return d.d;

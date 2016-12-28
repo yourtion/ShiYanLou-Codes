@@ -48,20 +48,43 @@
   <script type="text/javascript" src="js/uStates.js"></script>
   <script type="text/javascript">
     d3.csv('data/result.csv', function(error, csvData) {
+      // 创建一个 Object，用于存放处理之后的绘图数据
+      // 可将其理解为含有 key - value 的 map 对象
       var mapData = {};
+      // 变量 sum 用于存放准点航班总数
       var sum = 0;
+
+      // 第一次对 csvData 进行遍历，求取准点航班总数
       csvData.forEach(function(d) {
+        // 在forEach函数中，用一个匿名函数处理每次遍历得到的数据记录 d
+        // OnTimeFlightsNum 为 CSV 文件中我们设置的字段名称
+        // 取出的值还是字符串类型，我们要将其转换为浮点型
         sum += parseFloat(d.OnTimeFlightsNum);
       });
+
+      // 第二次对 csvData 进行遍历，用于设置绘图数据
       csvData.forEach(function(d) {
+          // d.StateName 取出每一条记录的 StateName 字段的值，并转换为字符串，作为 map 对象的 key
           var key = d.StateName.toString();
+
+          // d.OnTimeFlightsNum 取出每一条记录 OnTimeFlightsNum 字段的值，转换为浮点型
           var vNumOfOnTimeFlights = parseFloat(d.OnTimeFlightsNum);
+
+          // 这里是为不同的数据设置不同程度的颜色
+          // 调用了d3.js的插值API：d3.interpolate()
+          // 参数 "#57d2f7" 和 "#726dd1" 均为 HEX 类型的16进制颜色代码，每两位分别为 RGB 通道的颜色深浅
+          // 用 vNumOfOnTimeFlights / sum 计算当前值占总数的比例，乘以10是为了让颜色区分更明显
           var vColor = d3.interpolate('#57d2f7', '#726dd1')(vNumOfOnTimeFlights/sum*10);
+
+          // 对于每条记录，将 StateName 字段的值作为 mapData 的键，将准点航班数量和颜色代码作为它们的值。
           mapData[key] = {
             num: vNumOfOnTimeFlights,
             color: vColor,
           };
       });
+      // 绘图数据准备完成后，调用 uStates 对象的 draw 函数进行绘图。
+      // 第一个参数为选取的绘图对象，即我们设置的 HTML 标签：statesvg
+      // 第二个参数为我们计算得到的绘图数据
       uStates.draw('#statesvg', mapData);
     });
   </script>
