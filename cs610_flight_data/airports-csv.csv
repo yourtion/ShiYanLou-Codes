@@ -1,0 +1,3377 @@
+iata,city,state,country
+00M,Bay Springs,MS,USA
+00R,Livingston,TX,USA
+00V,Colorado Springs,CO,USA
+01G,Perry,NY,USA
+01J,Hilliard,FL,USA
+01M,Belmont,MS,USA
+02A,Clanton,AL,USA
+02C,Brookfield,WI,USA
+02G,East Liverpool,OH,USA
+03D,Memphis,MO,USA
+04M,Pittsboro,MS,USA
+04Y,Hawley,MN,USA
+05C,Griffith,IN,USA
+05F,Gatesville,TX,USA
+05U,Eureka,NV,USA
+06A,Tuskegee,AL,USA
+06C,Chicago/Schaumburg,IL,USA
+06D,Rolla,ND,USA
+06M,Eupora,MS,USA
+06N,Middletown,NY,USA
+06U,Jackpot,NV,USA
+07C,Auburn,IN,USA
+07F,Gladewater,TX,USA
+07G,Charlotte,MI,USA
+07K,Central City,NE,USA
+08A,Wetumpka,AL,USA
+08D,Stanley,ND,USA
+08K,Harvard,NE,USA
+08M,Carthage,MS,USA
+09A,Butler,AL,USA
+09J,Jekyll Island,GA,USA
+09K,Sargent,NE,USA
+09M,Charleston,MS,USA
+09W,Washington,DC,USA
+0A3,Smithville,TN,USA
+0A8,Centreville,AL,USA
+0A9,Elizabethton,TN,USA
+0AK,Pilot Station,AK,USA
+0B1,Bethel,ME,USA
+0B4,Hartington,NE,USA
+0B5,Montague,MA,USA
+0B7,Warren,VT,USA
+0B8,Fishers Island,NY,USA
+0C0,Chicago/Harvard,IL,USA
+0C4,Pender,NE,USA
+0D1,South Haven,MI,USA
+0D8,Gettysburg,SD,USA
+0E0,Moriarty,NM,USA
+0E8,Crownpoint,NM,USA
+0F2,Bowie,TX,USA
+0F4,Loup City,NE,USA
+0F7,Eufaula,OK,USA
+0F8,Sand Springs,OK,USA
+0F9,Tishomingo,OK,USA
+0G0,Lockport,NY,USA
+0G3,Tecumseh,NE,USA
+0G6,Bryan,OH,USA
+0G7,Seneca Falls,NY,USA
+0H1,Wakeeney,KS,USA
+0I8,Cynthiana,KY,USA
+0J0,Abbeville,AL,USA
+0J4,Florala,AL,USA
+0J6,Headland,AL,USA
+0K7,Humboldt,IA,USA
+0L5,Goldfield,NV,USA
+0L7,Jean,NV,USA
+0L9,Overton,NV,USA
+0M0,Dumas,AR,USA
+0M1,Parsons,TN,USA
+0M4,Camden,TN,USA
+0M5,Waverly,TN,USA
+0M6,Batesville,MS,USA
+0M8,Lake Providence,LA,USA
+0O3,San Andreas,CA,USA
+0O4,Corning,CA,USA
+0O5,Davis,CA,USA
+0Q5,Shelter Cove,CA,USA
+0Q6,Shingletown,CA,USA
+0R0,Columbia,MS,USA
+0R1,Atmore,AL,USA
+0R3,Abbeville,LA,USA
+0R4,Vidalia,LA,USA
+0R5,Winnfield,LA,USA
+0R7,Coushatta,LA,USA
+0S7,Oroville,WA,USA
+0S9,Port Townsend,WA,USA
+0V2,Salida,CO,USA
+0V3,Minden,NE,USA
+0V4,Brookneal,VA,USA
+0V6,Mission,SD,USA
+0V7,Kayenta,AZ,USA
+10C,Chicago/Greenwood/Wonderlake,IL,USA
+10D,Winsted,MN,USA
+10G,Millersburg,OH,USA
+10N,Wallkill,NY,USA
+10U,Owyhee,NV,USA
+11A,Clayton,AL,USA
+11D,Clarion,PA,USA
+11IS,Chicago/Schaumburg,IL,USA
+11J,Blakely,GA,USA
+11R,Brenham,TX,USA
+12C,Rochelle,IL,USA
+12D,Tower,MN,USA
+12J,Brewton,AL,USA
+12K,Superior,NE,USA
+12Y,Le Sueur,MN,USA
+13C,Lakeview,MI,USA
+13K,Eureka,KS,USA
+13N,Andover,NJ,USA
+14J,Elba,AL,USA
+14M,Hollandale,MS,USA
+14Y,Long Prairie,MN,USA
+15F,Haskell,TX,USA
+15J,Adel,GA,USA
+15M,Luka,MS,USA
+15Z,McCarthy,AK,USA
+16A,Nunapitchuk,AK,USA
+16G,Tiffin,OH,USA
+16J,Dawson,GA,USA
+16S,Myrtle Creek,OR,USA
+17G,Bucyrus,OH,USA
+17J,Donalsonville,GA,USA
+17K,Boise City,OK,USA
+17M,Magee,MS,USA
+17N,Cross Keys,NJ,USA
+17Z,Manokotak,AK,USA
+18A,Canon,GA,USA
+18I,Pine Knot,KY,USA
+19A,Jefferson,GA,USA
+19M,Lexington,MS,USA
+19N,Berlin,NJ,USA
+19P,Port Protection,AK,USA
+1A3,Copperhill,TN,USA
+1A5,Franklin,NC,USA
+1A6,Middlesboro,KY,USA
+1A7,Gainesboro,TN,USA
+1A9,Prattville,AL,USA
+1B0,Dexter,ME,USA
+1B1,Hudson,NY,USA
+1B3,Fair Haven,VT,USA
+1B9,Mansfield,MA,USA
+1C5,Chicago/Plainfield,IL,USA
+1D1,Milbank,SD,USA
+1D2,Plymouth,MI,USA
+1D3,Platte,SD,USA
+1D6,Hector,MN,USA
+1D7,Webster,SD,USA
+1D8,Redfield,SD,USA
+1F0,Ardmore,OK,USA
+1F1,Overbrook,OK,USA
+1F4,Madill,OK,USA
+1F9,Bridgeport,TX,USA
+1G0,Bowling Green,OH,USA
+1G3,Kent,OH,USA
+1G4,Peach Springs,AZ,USA
+1G5,Medina,OH,USA
+1G6,Cicero,NY,USA
+1H0,St Louis,MO,USA
+1H2,Effingham,IL,USA
+1H3,Linn,MO,USA
+1H8,Casey,IL,USA
+1I5,Freehold,NY,USA
+1I9,Delphi,IN,USA
+1J0,Bonifay,FL,USA
+1K2,Lindsay,OK,USA
+1K4,Goldsby,OK,USA
+1K5,Waynoka,OK,USA
+1K9,Satanta,KS,USA
+1L0,Reserve,LA,USA
+1L1,Panaca,NV,USA
+1L7,Escalante,UT,USA
+1L9,Parowan,UT,USA
+1M1,No Lit Rock,AR,USA
+1M2,Belzoni,MS,USA
+1M4,Haleyville,AL,USA
+1M5,Portland,TN,USA
+1M7,Fulton,KY,USA
+1MO,Mountain Grove,MO,USA
+1N2,East Moriches,NY,USA
+1N4,Woodbine,NJ,USA
+1N7,Blairstown,NJ,USA
+1N9,Allentown,PA,USA
+1ND3,Kindred,ND,USA
+1O1,Grandfield,OK,USA
+1O2,Lakeport,CA,USA
+1O3,Lodi,CA,USA
+1O4,Thomas,OK,USA
+1O6,Dunsmuir,CA,USA
+1R1,Jena,LA,USA
+1R7,Brookhaven,MS,USA
+1R8,Bay Minette,AL,USA
+1S0,Puyallup,WA,USA
+1S3,Forsyth,MT,USA
+1S5,Sunnyside,WA,USA
+1S6,Priest River,ID,USA
+1U7,Paris,ID,USA
+1V0,Navajo Dam,NM,USA
+1V2,Hyannis,NE,USA
+1V5,Boulder,CO,USA
+1V6,Canon City,CO,USA
+1V9,Delta,CO,USA
+20A,Oneonta,AL,USA
+20M,Macon,MS,USA
+20N,Kingston,NY,USA
+20U,Beach,ND,USA
+20V,Kremmling,CO,USA
+21D,St Paul,MN,USA
+21F,Jacksboro,TX,USA
+22B,Burlington,CT,USA
+22I,McArthur,OH,USA
+22M,Pontotoc,MS,USA
+22N,Lehighton,PA,USA
+23J,Jacksonville,FL,USA
+23M,Quitman,MS,USA
+23N,Bayport,NY,USA
+23R,Devine,TX,USA
+24A,Sylva,NC,USA
+24J,Live Oak,FL,USA
+24N,Dulce,NM,USA
+25J,Cuthbert,GA,USA
+25M,Ripley,MS,USA
+25R,Edinburg,TX,USA
+26A,Ashland/Lineville,AL,USA
+26N,Ocean City,NJ,USA
+26R,Edna/Ganado,TX,USA
+26U,McDermitt,OR,USA
+27A,Elberton,GA,USA
+27D,Canby,MN,USA
+27J,Newberry,SC,USA
+27K,Georgetown,KY,USA
+28J,Palatka,FL,USA
+29D,Grove City,PA,USA
+29G,Ravenna,OH,USA
+29S,Gardiner,MT,USA
+2A0,Dayton,TN,USA
+2A1,Jamestown,TN,USA
+2A3,Larsen Bay,AK,USA
+2A9,Kotlik,AK,USA
+2AK,Lime Village,AK,USA
+2B3,Newport,NH,USA
+2B7,Pittsfield,ME,USA
+2B9,Post Mills,VT,USA
+2D1,Alliance,OH,USA
+2D5,Oakes,ND,USA
+2F5,Lamesa,TX,USA
+2F6,Skiatook,OK,USA
+2F7,Commerce,TX,USA
+2F8,Bastrop,LA,USA
+2G2,Steubenville,OH,USA
+2G3,Connellsville,PA,USA
+2G4,Oakland,MD,USA
+2G9,Somerset,PA,USA
+2H0,Shelbyville,IL,USA
+2H2,Aurora,MO,USA
+2I0,Madisonville,KY,USA
+2I5,Rantoul,IL,USA
+2IS,Clewiston,FL,USA
+2J2,Hinesville,GA,USA
+2J3,Louisville,GA,USA
+2J5,Millen,GA,USA
+2J9,Quincy,FL,USA
+2K3,Johnson,KS,USA
+2K4,Mangum,OK,USA
+2K5,Telida,AK,USA
+2M0,Princeton,KY,USA
+2M2,Lawrenceburg,TN,USA
+2M3,Sallisaw,OK,USA
+2M4,Forest,MS,USA
+2M8,Millington,TN,USA
+2O1,Quincy,CA,USA
+2O3,Angwin,CA,USA
+2O6,Chowchilla,CA,USA
+2O7,Independence,CA,USA
+2O8,Hinton,OK,USA
+2P2,Washington Island,WI,USA
+2Q3,Davis/Woodland/Winters,CA,USA
+2R0,Waynesboro,MS,USA
+2R4,Milton,FL,USA
+2R5,St Elmo,AL,USA
+2R9,Kenedy,TX,USA
+2S1,Vashon,WA,USA
+2S6,Newberg,OR,USA
+2S7,Chiloquin,OR,USA
+2S8,Wilbur,WA,USA
+2T1,Muleshoe,TX,USA
+2V1,Pagosa Springs,CO,USA
+2V2,Longmont,CO,USA
+2V5,Wray,CO,USA
+2V6,Yuma,CO,USA
+2W5,Indian Head,MD,USA
+2W6,Leonardtown,MD,USA
+2Y3,Yakutat,AK,USA
+2Y4,Rockwell City,IA,USA
+31F,Seminole,TX,USA
+32M,Norfolk,MA,USA
+32S,Stevensville,MT,USA
+33J,Geneva,AL,USA
+33M,Water Valley,MS,USA
+33N,Dover,DE,USA
+33S,Ritzville,WA,USA
+34A,Laurens,SC,USA
+35A,Union,SC,USA
+35D,Allegan,MI,USA
+35S,Wasco,OR,USA
+36K,Lakin,KS,USA
+36S,Happy Camp,CA,USA
+36U,Heber,UT,USA
+37T,Calico Rock,AR,USA
+37W,Erwin,NC,USA
+38A,Shaktoolik,AK,USA
+38S,Deer Lodge,MT,USA
+38U,Loa,UT,USA
+39N,Princeton,NJ,USA
+3A0,Grove Hill,AL,USA
+3A1,Cullman,AL,USA
+3A2,Tazewell,TN,USA
+3A3,Wadesboro,NC,USA
+3AU,Augusta,KS,USA
+3B0,Southbridge,MA,USA
+3B1,Greenville,ME,USA
+3B2,Marshfield,MA,USA
+3B9,Chester,CT,USA
+3BS,Midland,MI,USA
+3CK,Lake In The Hills,IL,USA
+3CM,Bay City,MI,USA
+3CU,Cable,WI,USA
+3D2,Ephraim,WI,USA
+3D4,Frankfort,MI,USA
+3F3,Mansfield,LA,USA
+3F4,Vivian,LA,USA
+3F7,Bristow,OK,USA
+3FM,Fremont,MI,USA
+3FU,Faulkton,SD,USA
+3G3,Wadsworth,OH,USA
+3G4,Ashland,OH,USA
+3G7,Williamson,NY,USA
+3GM,Grand Haven,MI,USA
+3I2,Point Pleasant,WV,USA
+3I7,Phillipsburg,OH,USA
+3J1,Ridgeland,SC,USA
+3J7,Greensboro,GA,USA
+3JC,Junction City,KS,USA
+3K3,Syracuse,KS,USA
+3K6,Troy/Marine/St. Louis,IL,USA
+3K7,Leoti,KS,USA
+3LC,Lincoln,IL,USA
+3LF,Litchfield,IL,USA
+3M7,Lafayette,TN,USA
+3M8,Reform,AL,USA
+3M9,Warren,AR,USA
+3MY,Peoria,IL,USA
+3N6,Old Bridge,NJ,USA
+3N8,Mahnomen,MN,USA
+3ND0,Northwood,ND,USA
+3O1,Gustine,CA,USA
+3O3,Purcell,OK,USA
+3O4,Sayre,OK,USA
+3O5,Walters,OK,USA
+3O7,Hollister,CA,USA
+3O9,Afton,OK,USA
+3R0,Beeville,TX,USA
+3R1,Bay City,TX,USA
+3R2,Crowley,LA,USA
+3R4,Many,LA,USA
+3R7,Jennings,LA,USA
+3S4,Illinois Valley (Cave Junction),OR,USA
+3S8,Grants Pass,OR,USA
+3S9,Condon,OR,USA
+3SG,Saginaw - H.Browne,MI,USA
+3SQ,St Charles,MO,USA
+3T3,Boyceville,WI,USA
+3T5,La Grange,TX,USA
+3TR,Niles,MI,USA
+3U3,Anaconda,MT,USA
+3U7,Benchmark,MT,USA
+3U8,Big Sandy,MT,USA
+3V4,Fort Morgan,CO,USA
+3WO,Shawano,WI,USA
+3Y2,West Union,IA,USA
+3Y3,Winterset,IA,USA
+3Z9,Haines,AK,USA
+40J,Perry,FL,USA
+40N,Coatesville,PA,USA
+40U,Manila,UT,USA
+41U,Manti,UT,USA
+42A,Melbourne,AR,USA
+42C,White Cloud,MI,USA
+42J,Keystone Heights,FL,USA
+42S,Poplar,MT,USA
+43A,Star,NC,USA
+44B,Dover-Foxcroft,ME,USA
+44N,Millbrook,NY,USA
+45J,Rockingham,NC,USA
+45OH,North Bass Island,OH,USA
+45R,Kountze/Silsbee,TX,USA
+46A,Blairsville,GA,USA
+46D,Carrington,ND,USA
+46N,Red Hook,NY,USA
+47A,Canton,GA,USA
+47J,Cheraw,SC,USA
+47N,Manville,NJ,USA
+47V,Curtis,NE,USA
+48A,Cochran,GA,USA
+48D,Clare,MI,USA
+48I,Sutton,WV,USA
+48K,Ness City,KS,USA
+48S,Harlem,MT,USA
+48V,Erie,CO,USA
+49A,Ellijay,GA,USA
+49T,Dallas,TX,USA
+49X,Chemehuevi Valley,CA,USA
+49Y,Preston,MN,USA
+4A2,Atmautluak,AK,USA
+4A4,Cedartown,GA,USA
+4A5,Marshall,AR,USA
+4A6,Scottsboro,AL,USA
+4A7,Hampton,GA,USA
+4A9,Fort Payne,AL,USA
+4B0,South Bethlehem,NY,USA
+4B1,Duanesburg,NY,USA
+4B6,Ticonderoga,NY,USA
+4B7,Schroon Lake,NY,USA
+4B8,Plainville,CT,USA
+4B9,Simsbury,CT,USA
+4C8,Albia,IA,USA
+4D0,Grandledge,MI,USA
+4D9,Alma,NE,USA
+4F2,Carthage,TX,USA
+4F4,Gilmer,TX,USA
+4G1,Greenville,PA,USA
+4G2,Hamburg,NY,USA
+4G5,Woodsfield,OH,USA
+4G6,Hornell,NY,USA
+4G7,Fairmont,WV,USA
+4I0,Williamson,WV,USA
+4I3,Mount Vernon,OH,USA
+4I7,Greencastle,IN,USA
+4I9,Mt. Gilead,OH,USA
+4J1,Nahunta,GA,USA
+4J2,Nashville,GA,USA
+4J5,Quitman,GA,USA
+4J6,St Marys,GA,USA
+4K0,Pedro Bay,AK,USA
+4K5,Ouzinkie,AK,USA
+4K6,Bloomfield,IA,USA
+4KA,Tununak,AK,USA
+4M1,Berryville,AR,USA
+4M3,Carlisle,AR,USA
+4M4,Clinton,AR,USA
+4M7,Russellville,KY,USA
+4M8,Clarendon,AR,USA
+4M9,Corning,AR,USA
+4N1,West Milford,NJ,USA
+4O3,Blackwell-Tonkawa,OK,USA
+4O4,Idabel,OK,USA
+4O5,Cherokee,OK,USA
+4PH,Polacca,AZ,USA
+4R1,Lumberton,MS,USA
+4R3,Jackson,AL,USA
+4R4,Fairhope,AL,USA
+4R5,La Pointe,WI,USA
+4R7,Eunice,LA,USA
+4R9,Dauphin Island,AL,USA
+4S1,Gold Beach,OR,USA
+4S2,Hood River,OR,USA
+4S3,Joseph,OR,USA
+4S9,Mulino (Portland),OR,USA
+4SD,Reno,NV,USA
+4T6,Midlothian-Waxahachie,TX,USA
+4U3,Chester,MT,USA
+4U6,Circle,MT,USA
+4V0,Rangely,CO,USA
+4V1,Walsenburg,CO,USA
+4V9,Neligh,NE,USA
+4W1,Elizabethtown,NC,USA
+4Z4,Holy Cross,AK,USA
+4Z7,Hyder,AK,USA
+50I,Kentland,IN,USA
+50J,Moncks Corner,SC,USA
+50K,Pawnee City,NE,USA
+50R,Lockhart,TX,USA
+51D,Edgeley,ND,USA
+51Z,Minto,AK,USA
+52A,Madison,GA,USA
+52E,Timberon,NM,USA
+52J,Bishopville,SC,USA
+53A,Montezuma,GA,USA
+53K,Osage City,KS,USA
+54J,Defuniak Springs,FL,USA
+55D,Grayling,MI,USA
+55J,Fernandina Beach,FL,USA
+55S,Packwood,WA,USA
+56D,Upper Sandusky,OH,USA
+56M,Warsaw,MO,USA
+56S,Seaside,OR,USA
+57B,Islesboro,ME,USA
+57C,East Troy,WI,USA
+59B,Jackman,ME,USA
+5A4,Okolona,MS,USA
+5A6,Winona,MS,USA
+5A8,Aleknagik,AK,USA
+5A9,Warm Springs,GA,USA
+5B2,Saratoga Springs,NY,USA
+5B3,Danielson,CT,USA
+5B7,Troy,NY,USA
+5CD,Chandalar Camp,AK,USA
+5D3,Owosso,MI,USA
+5F1,Post,TX,USA
+5F4,Homer,LA,USA
+5G0,Le Roy,NY,USA
+5G7,Bluffton,OH,USA
+5G8,Jeanette,PA,USA
+5G9,Lambertville,MI,USA
+5HO,Hope,AK,USA
+5I4,Sheridan,IN,USA
+5J0,John Day,OR,USA
+5J9,Loris,SC,USA
+5K2,Tribune,KS,USA
+5M0,Hartselle,AL,USA
+5M1,De Witt,AR,USA
+5M4,Fordyce,AR,USA
+5M9,Marion,KY,USA
+5N8,Casselton,ND,USA
+5ND6,Hillsboro,ND,USA
+5NI,Nikolai,AK,USA
+5NK,Naknek,AK,USA
+5NN,Nondalton,AK,USA
+5R3,Lago Vista,TX,USA
+5R4,Foley,AL,USA
+5R5,Wharton,TX,USA
+5R8,De Quincy,LA,USA
+5S8,St. Michael,AK,USA
+5T5,Hillsboro,TX,USA
+5T6,Santa Teresa,NM,USA
+5T9,Eagle Pass,TX,USA
+5TE,Tetlin,AK,USA
+5U3,Ennis,MT,USA
+5U8,Geraldine,MT,USA
+5V5,Shiprock,NM,USA
+5V8,Kadoka,SD,USA
+5W8,Siler City,NC,USA
+5Z1,Juneau,AK,USA
+5Z5,Kantishna,AK,USA
+60F,Seymour,TX,USA
+60J,Ocean Isle Beach,NC,USA
+61A,Camden,AL,USA
+61B,Boulder City,NV,USA
+61C,Fort Atkinson,WI,USA
+61J,Portland,OR,USA
+61S,Cottage Grove,OR,USA
+62D,Warren,OH,USA
+62H,Giddings,TX,USA
+62S,Christmas Valley,OR,USA
+63A,Petersburg,AK,USA
+63C,Adams/Friendship,WI,USA
+63S,Colville,WA,USA
+65J,Wrens,GA,USA
+65S,Bonners Ferry,ID,USA
+66D,Sturgis,SD,USA
+67L,Mesquite,NV,USA
+68A,Wrangell,AK,USA
+68S,Davenport,WA,USA
+6A1,Butler,GA,USA
+6A2,Griffin,GA,USA
+6A3,Andrews,NC,USA
+6A4,Mountain City,TN,USA
+6A8,Allakaket,AK,USA
+6B0,Middlebury,VT,USA
+6B4,Utica/Frankfort,NY,USA
+6B6,Stow,MA,USA
+6B8,Lyndonville,VT,USA
+6B9,Skaneateles,NY,USA
+6D6,Greenville,MI,USA
+6D8,Valley City,ND,USA
+6F1,Talihina,OK,USA
+6G1,Titusville,PA,USA
+6G5,Barnesville,OH,USA
+6I2,Springfield,KY,USA
+6J0,Pelion,SC,USA
+6J2,St George,SC,USA
+6J4,Saluda,SC,USA
+6K3,Creighton,NE,USA
+6K4,Fairview,OK,USA
+6K8,Tok,AK,USA
+6L4,Logan,WV,USA
+6M2,Horseshoe Bend,AR,USA
+6M6,Monticello,MO,USA
+6M7,Marianna,AR,USA
+6M8,Marked Tree,AR,USA
+6N5,New York,NY,USA
+6N7,New York,NY,USA
+6N8,Thedford,NE,USA
+6R3,Cleveland,TX,USA
+6R7,Old Harbor,AK,USA
+6R9,Llano,TX,USA
+6S0,Big Timber,MT,USA
+6S2,Florence,OR,USA
+6S3,Columbus,MT,USA
+6S5,Hamilton,MT,USA
+6S8,Laurel,MT,USA
+6V0,Edgemont,SD,USA
+6V3,Richlands,VA,USA
+6V4,Wall,SD,USA
+6V6,Nucla,CO,USA
+70J,Cairo,GA,USA
+71J,Ozark,AL,USA
+72S,Rosalia,WA,USA
+73C,Lancaster,WI,USA
+73J,Beaufort,SC,USA
+74D,Moundsville,WV,USA
+74S,Anacortes,WA,USA
+74V,Roosevelt,UT,USA
+75J,Ashburn,GA,USA
+76G,Marine City,MI,USA
+77G,Marlette,MI,USA
+77S,Creswell,OR,USA
+78D,Caro,MI,USA
+79D,Philippi,WV,USA
+79J,Andalusia,AL,USA
+79S,Fort Benton,MT,USA
+7A0,Greensboro,AL,USA
+7A2,Demopolis,AL,USA
+7A3,Lanett,AL,USA
+7A5,Roanoke,AL,USA
+7A8,Spruce Pine,NC,USA
+7B2,Northampton,MA,USA
+7D2,Troy,MI,USA
+7F3,Caddo Mills,TX,USA
+7F6,Clarksville,TX,USA
+7F7,Clifton,TX,USA
+7F9,Comanche,TX,USA
+7G0,Brockport,NY,USA
+7G8,Middlefield,OH,USA
+7I7,Bellefontaine,OH,USA
+7K0,Pikeville,KY,USA
+7K2,Skagway,AK,USA
+7K4,Hartford,KY,USA
+7K8,South Sioux City,NE,USA
+7KA,Tatitlek,AK,USA
+7M1,McGehee,AR,USA
+7M3,Mount Ida,AR,USA
+7M4,Osceola,AR,USA
+7M5,Ozark,AR,USA
+7M7,Piggott,AR,USA
+7N0,New Orleans,LA,USA
+7N1,Corning,NY,USA
+7N7,Pedrictown,NJ,USA
+7S0,Ronan,MT,USA
+7S1,Twin Bridges,MT,USA
+7S5,Independence,OR,USA
+7S6,White Sulphur Springs,MT,USA
+7S7,Valier,MT,USA
+7V1,Buena Vista,CO,USA
+7V7,Red Cloud,NE,USA
+7W6,Englehard,NC,USA
+80F,Antlers,OK,USA
+81B,Norway,ME,USA
+82C,New Lisbon,WI,USA
+82V,Pine Bluffs,WY,USA
+83D,St Ignace,MI,USA
+84D,Eagle Butte,SD,USA
+84K,Meyers Chuck,AK,USA
+84R,Smithville,TX,USA
+85V,Ganado,AZ,USA
+86F,Carnegie,OK,USA
+87I,Yazoo City,MS,USA
+87Y,Madison,WI,USA
+88C,Palmyra,WI,USA
+88J,Allendale,SC,USA
+88M,Eureka,MT,USA
+89D,Kelleys Island,OH,USA
+8A0,Albertville,AL,USA
+8A1,Guntersville,AL,USA
+8A3,Livingston,TN,USA
+8B0,Rangeley,ME,USA
+8D1,New Holstein,WI,USA
+8D3,Sisseton,SD,USA
+8D4,Sparta,MI,USA
+8D7,Clark,SD,USA
+8D9,Howard,SD,USA
+8F7,Decatur,TX,USA
+8G2,Corry,PA,USA
+8G6,Cadiz,OH,USA
+8G7,Zelienople,PA,USA
+8K8,Cimarron,KS,USA
+8K9,Ketchikan,AK,USA
+8M1,Booneville,MS,USA
+8S1,Polson,MT,USA
+8S2,Cashmere,WA,USA
+8S5,Mt Pleasant,SC,USA
+8U6,Terry,MT,USA
+8U8,Townsend,MT,USA
+8V2,Atkinson,NE,USA
+8Y2,Buffalo,MN,USA
+91C,Prairie Du Sac,WI,USA
+91F,Canadian,OK,USA
+93B,Stonington,ME,USA
+93C,Richland Center,WI,USA
+93F,Cheyenne,OK,USA
+93Y,David City,NE,USA
+94K,Cassville,MO,USA
+95F,Cleveland,OK,USA
+96D,Walhalla,ND,USA
+96Z,North Whale Pass,AK,USA
+97M,Ekalaka,MT,USA
+98D,Onida,SD,USA
+99N,Bamburg,SC,USA
+99Y,Greeley,NE,USA
+9A1,Covington,GA,USA
+9A3,Chuathbaluk,AK,USA
+9A4,Courtland,AL,USA
+9A5,LaFayette,GA,USA
+9A6,Chester,SC,USA
+9A8,Ugashik,AK,USA
+9C8,Evart,MI,USA
+9D0,Highmore,SD,USA
+9D1,Gregory,SD,USA
+9D2,Buffalo,SD,USA
+9D7,Cando,ND,USA
+9D9,Hastings,MI,USA
+9G0,Buffalo,NY,USA
+9G1,Tarentum,PA,USA
+9G3,Akron,NY,USA
+9G5,Gasport,NY,USA
+9G8,Ebensburg,PA,USA
+9I0,Havana,IL,USA
+9I3,West Liberty,KY,USA
+9K2,Kokhanok,AK,USA
+9K4,Warrensburg,MO,USA
+9K7,Ellsworth,KS,USA
+9K8,Kingman,KS,USA
+9M4,Ackerman,MS,USA
+9M6,Oak Grove,LA,USA
+9M8,Sheridan,AR,USA
+9S2,Scobey,MT,USA
+9S4,Superior,MT,USA
+9S5,Three Forks,MT,USA
+9S7,Winifred,MT,USA
+9S9,Lexington,OR,USA
+9U0,Turner,MT,USA
+9U3,Austin,NV,USA
+9U4,Dixon,WY,USA
+9V5,Rushville,NE,USA
+9V6,Martin,SD,USA
+9V9,Chamberlain,SD,USA
+9W7,Currituck,NC,USA
+A04,Centre,AL,USA
+A14,Portage Creek,AK,USA
+A29,Sitka,AK,USA
+A30,Fort Jones,CA,USA
+A32,Dorris,CA,USA
+A61,Tuntutuliak,AK,USA
+A63,Twin Hills,AK,USA
+A79,Chignik Lake,AK,USA
+A85,Kwigillingok,AK,USA
+AAF,Apalachicola,FL,USA
+AAO,Wichita,KS,USA
+AAS,Cambellsville,KY,USA
+AAT,Alturas,CA,USA
+ABE,Allentown,PA,USA
+ABI,Abilene,TX,USA
+ABO,Arecibo,PR,USA
+ABQ,Albuquerque,NM,USA
+ABR,Aberdeen,SD,USA
+ABY,Albany,GA,USA
+ACB,Bellaire,MI,USA
+ACJ,Americus,GA,USA
+ACK,Nantucket,MA,USA
+ACQ,Waseca,MN,USA
+ACT,Waco,TX,USA
+ACV,Arcata/Eureka,CA,USA
+ACY,Atlantic City,NJ,USA
+ACZ,Wallace,NC,USA
+ADC,Wadena,MN,USA
+ADG,Adrian,MI,USA
+ADH,Ada,OK,USA
+ADK,Adak,AK,USA
+ADM,Ardmore,OK,USA
+ADQ,Kodiak,AK,USA
+ADS,Dallas/Addison,TX,USA
+ADT,Atwood,KS,USA
+ADU,Audubon,IA,USA
+AEG,Albuquerque,NM,USA
+AEL,Albert Lea,MN,USA
+AEX,Alexandria,LA,USA
+AFE,Kake,AK,USA
+AFJ,Washington,PA,USA
+AFK,Nebraska City,NE,USA
+AFM,Ambler,AK,USA
+AFN,Jaffrey,NH,USA
+AFO,Afton,WY,USA
+AFW,Fort Worth,TX,USA
+AGC,Pittsburgh,PA,USA
+AGN,Angoon,AK,USA
+AGO,Magnolia,AR,USA
+AGS,Augusta,GA,USA
+AGZ,Wagner,SD,USA
+AHH,Amery,WI,USA
+AHN,Athens,GA,USA
+AHP,Port Alexander,AK,USA
+AHQ,Wahoo,NE,USA
+AIA,Alliance,NE,USA
+AID,Anderson,IN,USA
+AIG,Antigo,WI,USA
+AIK,Aiken,SC,USA
+AIO,Atlantic,IA,USA
+AIT,Aitkin,MN,USA
+AIV,Aliceville,AL,USA
+AIY,Atlantic City,NJ,USA
+AIZ,Kaiser/Lake Ozark,MO,USA
+AJC,Chignik,AK,USA
+AJG,Mt Carmel,IL,USA
+AJO,Corona,CA,USA
+AJR,Cornelia,GA,USA
+AK5,Perryville,AK,USA
+AKA,Atka,AK,USA
+AKH,Gastonia,NC,USA
+AKI,Akiak,AK,USA
+AKK,Akhiok,AK,USA
+AKN,King Salmon,AK,USA
+AKO,Akron,CO,USA
+AKP,Anaktuvuk Pass,AK,USA
+AKR,Akron,OH,USA
+AKW,Klawock,AK,USA
+AL08,Marion,AL,USA
+ALB,Albany,NY,USA
+ALI,Alice,TX,USA
+ALM,Alamogordo,NM,USA
+ALN,Alton/St. Louis,IL,USA
+ALO,Waterloo,IA,USA
+ALS,Alamosa,CO,USA
+ALW,Walla Walla,WA,USA
+ALX,Alexander City,AL,USA
+AMA,Amarillo,TX,USA
+AMG,Alma,GA,USA
+AMN,Alma,MI,USA
+AMT,West Union,OH,USA
+AMW,Ames,IA,USA
+ANB,Anniston,AL,USA
+ANC,Anchorage,AK,USA
+AND,Anderson,SC,USA
+ANE,Minneapolis,MN,USA
+ANI,Aniak,AK,USA
+ANQ,Angola,IN,USA
+ANV,Anvik,AK,USA
+ANW,Ainsworth,NE,USA
+ANY,Anthony,KS,USA
+AOC,Arco,ID,USA
+AOH,Lima,OH,USA
+AOO,Altoona,PA,USA
+APA,Denver,CO,USA
+APC,Napa,CA,USA
+APF,Naples,FL,USA
+APN,Alpena,MI,USA
+APT,Jasper,TN,USA
+APV,Apple Valley,CA,USA
+AQC,Klawock,AK,USA
+AQH,Quinhagak,AK,USA
+AQT,Nuiqsut,AK,USA
+AQW,North Adams,MA,USA
+AQY,Girdwood,AK,USA
+ARA,New Iberia,LA,USA
+ARB,Ann Arbor,MI,USA
+ARC,Arctic Village,AK,USA
+ARG,Walnut Ridge,AR,USA
+ARR,Chicago/Aurora,IL,USA
+ART,Watertown,NY,USA
+ARV,Minocqua-Woodruff,WI,USA
+ASD,Slidell,LA,USA
+ASE,Aspen,CO,USA
+ASG,Springdale,AR,USA
+ASH,Nashua,NH,USA
+ASJ,Ahoskie,NC,USA
+ASL,Marshall,TX,USA
+ASN,Talladega,AL,USA
+AST,Astoria,OR,USA
+ASW,Warsaw,IN,USA
+ASX,Ashland,WI,USA
+ATA,Atlanta,TX,USA
+ATK,Atqasuk,AK,USA
+ATL,Atlanta,GA,USA
+ATS,Artesia,NM,USA
+ATW,Appleton,WI,USA
+ATY,Watertown,SD,USA
+AUG,Augusta,ME,USA
+AUH,Aurora,NE,USA
+AUK,Alakanuk,AK,USA
+AUM,Austin,MN,USA
+AUN,Auburn,CA,USA
+AUO,Auburn,AL,USA
+AUS,Austin,TX,USA
+AUW,Wausau,WI,USA
+AVC,South Hill,VA,USA
+AVK,Alva,OK,USA
+AVL,Asheville,NC,USA
+AVO,Avon Park,FL,USA
+AVP,Wilkes-Barre/Scranton,PA,USA
+AVQ,Marana,AZ,USA
+AVX,Avalon,CA,USA
+AWG,Washington,IA,USA
+AWI,Wainwright,AK,USA
+AWM,West Memphis,AR,USA
+AWO,Arlington,WA,USA
+AXA,Algona,IA,USA
+AXN,Alexandria,MN,USA
+AXS,Altus,OK,USA
+AXV,Wapakoneta,OH,USA
+AXX,Angel Fire,NM,USA
+AYS,Waycross,GA,USA
+AZC,Colorado City,AZ,USA
+AZE,Hazelhurst,GA,USA
+AZO,Kalamazoo,MI,USA
+B01,Granville,NY,USA
+B08,Silver Springs,NV,USA
+B16,Weedsport,NY,USA
+B19,Biddeford,ME,USA
+B21,Carrabasset,ME,USA
+BAF,Westfield,MA,USA
+BAK,Columbus,IN,USA
+BAM,Battle Mountain,NV,USA
+BAX,Bad Axe,MI,USA
+BAZ,New Braunfels,TX,USA
+BBB,Benson,MN,USA
+BBD,Brady,TX,USA
+BBP,Bennettsville,SC,USA
+BBW,Broken Bow,NE,USA
+BCB,Blacksburg,VA,USA
+BCE,Bryce Canyon,UT,USA
+BCK,Black River Falls,WI,USA
+BCT,Boca Raton,FL,USA
+BCV,Birchwood,AK,USA
+BDE,Baudette,MN,USA
+BDG,Blanding,UT,USA
+BDL,Windsor Locks,CT,USA
+BDQ,Morrilton,AR,USA
+BDR,Bridgeport,CT,USA
+BDX,Broadus,MT,USA
+BED,Bedford,MA,USA
+BEH,Benton Harbor,MI,USA
+BET,Bethel,AK,USA
+BFD,Bradford,PA,USA
+BFF,Scottsbluff,NE,USA
+BFI,Seattle,WA,USA
+BFK,Buffalo,OK,USA
+BFL,Bakersfield,CA,USA
+BFM,Mobile,AL,USA
+BFR,Bedford,IN,USA
+BFW,Silver Bay,MN,USA
+BGD,Borger,TX,USA
+BGE,Bainbridge,GA,USA
+BGF,Winchester,TN,USA
+BGM,Binghamton,NY,USA
+BGQ,Big Lake,AK,USA
+BGR,Bangor,ME,USA
+BHB,Bar Harbor,ME,USA
+BHC,Baxley,GA,USA
+BHK,Baker City,MT,USA
+BHM,Birmingham,AL,USA
+BID,Block Island,RI,USA
+BIE,Beatrice,NE,USA
+BIG,Delta Junction,AK,USA
+BIH,Bishop,CA,USA
+BIL,Billings,MT,USA
+BIS,Bismarck,ND,USA
+BIV,Holland,MI,USA
+BJC,Denver,CO,USA
+BJI,Bemidji,MN,USA
+BJJ,Wooster,OH,USA
+BKD,Breckenridge,TX,USA
+BKE,Baker City,OR,USA
+BKL,Cleveland,OH,USA
+BKV,Brooksville,FL,USA
+BKW,Beckley,WV,USA
+BKX,Brookings,SD,USA
+BLF,Bluefield,WV,USA
+BLH,Blythe,CA,USA
+BLI,Bellingham,WA,USA
+BLM,Belmar/Farmingdale,NJ,USA
+BLV,Belleville/St. Louis,IL,USA
+BMC,Brigham City,UT,USA
+BMG,Bloomington,IN,USA
+BMI,Bloomington,IL,USA
+BML,Berlin,NH,USA
+BMQ,Burnet,TX,USA
+BMT,Beaumont,TX,USA
+BNA,Nashville,TN,USA
+BNF,Baranof Warm Springs,AK,USA
+BNG,Banning,CA,USA
+BNL,Barnwell,SC,USA
+BNO,Burns,OR,USA
+BNW,Boone,IA,USA
+BOI,Boise,ID,USA
+BOK,Brookings,OR,USA
+BOS,Boston,MA,USA
+BOW,Bartow,FL,USA
+BPI,Big Piney,WY,USA
+BPK,Mountain Home,AR,USA
+BPT,Beaumont/Port Arthur,TX,USA
+BQK,Brunswick,GA,USA
+BQN,Aguadilla,PR,USA
+BRD,Brainerd,MN,USA
+BRL,Burlington,IA,USA
+BRO,Brownsville,TX,USA
+BRW,Barrow,AK,USA
+BRY,Bardstown,KY,USA
+BST,Belfast,ME,USA
+BTI,Kaktovik,AK,USA
+BTL,Battle Creek,MI,USA
+BTM,Butte,MT,USA
+BTN,Britton,SD,USA
+BTP,Butler,PA,USA
+BTR,Baton Rouge,LA,USA
+BTT,Bettles,AK,USA
+BTV,Burlington,VT,USA
+BTY,Beatty,NV,USA
+BUB,Burwell,NE,USA
+BUF,Buffalo,NY,USA
+BUM,Butler,MO,USA
+BUR,Burbank,CA,USA
+BUY,Burlington,NC,USA
+BVI,Beaver Falls,PA,USA
+BVK,Buckland,AK,USA
+BVN,Albion,NE,USA
+BVO,Bartlesville,OK,USA
+BVS,Burlington/Mount Vernon,WA,USA
+BVX,Batesville,AR,USA
+BVY,Beverly,MA,USA
+BWC,Brawley,CA,USA
+BWD,Brownwood,TX,USA
+BWG,Bowling Green,KY,USA
+BWI,Baltimore,MD,USA
+BWP,Wahpeton,ND,USA
+BXA,Bogalusa,LA,USA
+BXG,Waynesboro,GA,USA
+BXK,Buckeye,AZ,USA
+BYA,Boundary,AK,USA
+BYG,Buffalo,WY,USA
+BYI,Burley,ID,USA
+BZN,Bozeman,MT,USA
+C00,Aledo,IL,USA
+C05,Chenega,AK,USA
+C09,Morris,IL,USA
+C15,Pekin,IL,USA
+C17,Marion,IA,USA
+C18,Chicago/Frankfort,IL,USA
+C25,Waverly,IA,USA
+C29,Middleton,WI,USA
+C34,Gibson City,IL,USA
+C35,Reedsburg,WI,USA
+C47,Portage,WI,USA
+C52,Burlington,WI,USA
+C56,Chicago/Monee,IL,USA
+C62,Kendallville,IN,USA
+C65,Plymouth,IN,USA
+C66,Monmouth,IL,USA
+C71,Crosby,MS,USA
+C73,Dixon,IL,USA
+C75,Lacon,IL,USA
+C77,Poplar Grove,IL,USA
+C80,Coalinga,CA,USA
+C81,Chicago/Round Lake Park,IL,USA
+C83,Byron,CA,USA
+C91,Dowagiac,MI,USA
+CAD,Cadillac,MI,USA
+CAE,Columbia,SC,USA
+CAG,Craig,CO,USA
+CAK,Akron,OH,USA
+CAO,Clayton,NM,USA
+CAR,Caribou,ME,USA
+CAV,Clarion,IA,USA
+CBE,Cumberland,MD,USA
+CBF,Council Bluffs,IA,USA
+CBG,Cambridge,MN,USA
+CBK,Colby,KS,USA
+CCB,Upland,CA,USA
+CCO,Newnan,GA,USA
+CCR,Concord,CA,USA
+CCY,Charles City,IA,USA
+CDB,Cold Bay,AK,USA
+CDC,Cedar City,UT,USA
+CDH,Camden,AR,USA
+CDI,Cambridge,OH,USA
+CDK,Cedar Key,FL,USA
+CDN,Camden,SC,USA
+CDR,Chadron,NE,USA
+CDV,Cordova,AK,USA
+CDW,Caldwell,NJ,USA
+CEC,Crescent City,CA,USA
+CEF,Chicopee,MA,USA
+CEK,Crete,NE,USA
+CEM,Central,AK,USA
+CEU,Clemson,SC,USA
+CEV,Connersville,IN,USA
+CEW,Crestview,FL,USA
+CEY,Murray,KY,USA
+CEZ,Cortez,CO,USA
+CFD,Bryan,TX,USA
+CFJ,Crawfordsville,IN,USA
+CFK,Chefornak,AK,USA
+CFT,Clifton-Morenci,AZ,USA
+CFV,Coffeyville,KS,USA
+CGA,Craig,AK,USA
+CGC,Crystal River,FL,USA
+CGE,Cambridge,MD,USA
+CGF,Cleveland,OH,USA
+CGI,Cape Girardeau,MO,USA
+CGS,College Park,MD,USA
+CGX,Chicago,IL,USA
+CGZ,Casa Grande,AZ,USA
+CHA,Chattanooga,TN,USA
+CHD,Chandler,AZ,USA
+CHK,Chickasha,OK,USA
+CHO,Charlottesville,VA,USA
+CHP,Circle Hot Springs,AK,USA
+CHS,Charleston,SC,USA
+CHT,Chillicothe,MO,USA
+CHU,Caledonia,MN,USA
+CIC,Chico,CA,USA
+CID,Cedar Rapids,IA,USA
+CII,Choteau,MT,USA
+CIK,Chalkyitsik,AK,USA
+CIN,Carroll,IA,USA
+CIR,Cairo,IL,USA
+CIU,Sault Ste. Marie,MI,USA
+CJR,Culpeper,VA,USA
+CJX,Crooked Creek,AK,USA
+CKB,Clarksburg,WV,USA
+CKC,Grand Marais,MN,USA
+CKF,Cordele,GA,USA
+CKI,Kingstree,SC,USA
+CKM,Clarksdale,MS,USA
+CKN,Crookston,MN,USA
+CKP,Cherokee,IA,USA
+CKU,Cordova,AK,USA
+CKV,Clarksville,TN,USA
+CKX,Chicken,AK,USA
+CLD,NA,NA,USA
+CLE,Cleveland,OH,USA
+CLI,Clintonville,WI,USA
+CLK,Clinton,OK,USA
+CLL,College Station,TX,USA
+CLM,Port Angeles,WA,USA
+CLP,Clarks Point,AK,USA
+CLS,Chehalis,WA,USA
+CLT,Charlotte,NC,USA
+CLW,Clearwater,FL,USA
+CMA,Camarillo,CA,USA
+CMH,Columbus,OH,USA
+CMI,Champaign/Urbana,IL,USA
+CMX,Hancock,MI,USA
+CMY,Sparta,WI,USA
+CNC,Chariton,IA,USA
+CNH,Claremont,NH,USA
+CNK,Concordia,KS,USA
+CNM,Carlsbad,NM,USA
+CNO,Chino,CA,USA
+CNP,Chappell,NE,USA
+CNU,Chanute,KS,USA
+CNW,Waco,TX,USA
+CNY,Moab,UT,USA
+COD,Cody,WY,USA
+COE,Coeur D'Alene,ID,USA
+COI,Merritt Island,FL,USA
+COM,Coleman,TX,USA
+CON,Concord,NH,USA
+COQ,Cloquet,MN,USA
+COS,Colorado Springs,CO,USA
+COT,Cotulla,TX,USA
+COU,Columbia,MO,USA
+CPC,Whiteville,NC,USA
+CPK,Norfolk,VA,USA
+CPM,Compton,CA,USA
+CPR,Casper,WY,USA
+CPS,Cahokia/St. Louis,IL,USA
+CPX,Isla De Culebra,PR,USA
+CQA,Celina,OH,USA
+CQB,Chandler,OK,USA
+CQX,Chatham,MA,USA
+CRC,Circle,AK,USA
+CRE,North Myrtle Beach,SC,USA
+CRG,Jacksonville,FL,USA
+CRO,Corcoran,CA,USA
+CRP,Corpus Christi,TX,USA
+CRQ,Carlsbad,CA,USA
+CRS,Corsicana,TX,USA
+CRT,Crossett,AR,USA
+CRW,Charleston,WV,USA
+CRX,Corinth,MS,USA
+CSB,Cambridge,NE,USA
+CSG,Columbus,GA,USA
+CSM,Clinton,OK,USA
+CSQ,Creston,IA,USA
+CSV,Crossville,TN,USA
+CTB,Cut Bank,MT,USA
+CTJ,Carrollton,GA,USA
+CTK,Canton,IL,USA
+CTY,Cross City,FL,USA
+CTZ,Clinton,NC,USA
+CUB,Columbia,SC,USA
+CUH,Cushing,OK,USA
+CUL,Carmi,IL,USA
+CUT,Custer,SD,USA
+CVG,Covington,KY,USA
+CVK,Ash Flat,AR,USA
+CVN,Clovis,NM,USA
+CVO,Corvallis,OR,USA
+CVX,Charlevoix,MI,USA
+CWA,Mosinee,WI,USA
+CWF,Lake Charles,LA,USA
+CWI,Clinton,IA,USA
+CWV,Claxton,GA,USA
+CXC,Chitina,AK,USA
+CXE,Chase City,VA,USA
+CXF,Coldfoot,AK,USA
+CXL,Calexico,CA,USA
+CXO,Conroe,TX,USA
+CXP,Carson City,NV,USA
+CXU,Camilla,GA,USA
+CXY,Harrisburg,PA,USA
+CYO,Circleville,OH,USA
+CYS,Cheyenne,WY,USA
+CYW,Clay Center,KS,USA
+CZD,Cozad,NE,USA
+CZG,Endicott,NY,USA
+CZL,Calhoun,GA,USA
+CZN,Chisana,AK,USA
+CZT,Carrizo Springs,TX,USA
+D04,Bowman,ND,USA
+D05,Garrison,ND,USA
+D07,Faith,SD,USA
+D09,Bottineau,ND,USA
+D19,Luverne,MN,USA
+D22,Angola,NY,USA
+D25,Manitowish Waters,WI,USA
+D38,Canandaiga,NY,USA
+D42,Springfield,MN,USA
+D50,Crosby,ND,USA
+D55,Langdon,ND,USA
+D57,Glen Ullin,ND,USA
+D60,Tioga,ND,USA
+D73,Monroe,GA,USA
+D77,Lancaster,NY,USA
+D87,Harbor Springs,MI,USA
+D95,Lapeer,MI,USA
+D98,Romeo,MI,USA
+DAB,Daytona Beach,FL,USA
+DAG,Daggett,CA,USA
+DAL,Dallas,TX,USA
+DAN,Danville,VA,USA
+DAW,Rochester,NH,USA
+DAY,Dayton,OH,USA
+DBN,Dublin,GA,USA
+DBQ,Dubuque,IA,USA
+DCA,Arlington,VA,USA
+DCK,Dahl Creek,AK,USA
+DCU,Decatur,AL,USA
+DCY,Washington,IN,USA
+DDC,Dodge City,KS,USA
+DDH,Bennington,VT,USA
+DEC,Decatur,IL,USA
+DED,Deland,FL,USA
+DEE,Deering,AK,USA
+DEH,Decorah,IA,USA
+DEN,Denver,CO,USA
+DEQ,De Queen,AR,USA
+DET,Detroit,MI,USA
+DEW,Deer Park,WA,USA
+DFI,Defiance,OH,USA
+DFW,Dallas-Fort Worth,TX,USA
+DGW,Douglas,WY,USA
+DHN,Dothan,AL,USA
+DHT,Dalhart,TX,USA
+DIK,Dickinson,ND,USA
+DKB,Dekalb,IL,USA
+DKK,Dunkirk,NY,USA
+DKX,Knoxville,TN,USA
+DLG,Dillingham,AK,USA
+DLH,Duluth,MN,USA
+DLL,Baraboo,WI,USA
+DLN,Dillon,MT,USA
+DLO,Delano,CA,USA
+DLS,The Dalles,OR,USA
+DLZ,Delaware,OH,USA
+DM2,Diomede,AK,USA
+DMN,Deming,NM,USA
+DMO,Sedalia,MO,USA
+DMW,Westminster,MD,USA
+DNL,Augusta,GA,USA
+DNN,Dalton,GA,USA
+DNS,Denison,IA,USA
+DNV,Danville,IL,USA
+DOV,Dover,DE,USA
+DPA,Chicago/West Chicago,IL,USA
+DPL,Kenansville,NC,USA
+DQH,Douglas,GA,USA
+DRI,De Ridder,LA,USA
+DRO,Durango,CO,USA
+DRT,Del Rio,TX,USA
+DSM,Des Moines,IA,USA
+DSV,Dansville,NY,USA
+DTA,Delta,UT,USA
+DTL,Detroit Lakes,MN,USA
+DTN,Shreveport,LA,USA
+DTO,Denton,TX,USA
+DTS,Destin,FL,USA
+DTW,Detroit,MI,USA
+DUA,Durant,OK,USA
+DUC,Duncan,OK,USA
+DUG,Douglas Bisbee,AZ,USA
+DUJ,Du Bois,PA,USA
+DUT,Unalaska,AK,USA
+DUX,Dumas,TX,USA
+DUY,Kongiganak,AK,USA
+DVK,Danville,KY,USA
+DVL,Devils Lake,ND,USA
+DVN,Davenport,IA,USA
+DVO,Novato,CA,USA
+DVT,Phoenix,AZ,USA
+DWH,Houston,TX,USA
+DWU,Ashland,KY,USA
+DXE,Dexter,MO,USA
+DXR,Danbury,CT,USA
+DXX,Madison,MN,USA
+DYB,Summerville,SC,USA
+DYL,Doylestown,PA,USA
+DYR,Dyersburg,TN,USA
+DYT,Duluth,MN,USA
+E01,Monahans,TX,USA
+E04,Eunice,NM,USA
+E05,Hatch,NM,USA
+E06,Lovington,NM,USA
+E07,Tatum,NM,USA
+E11,Andrews,TX,USA
+E15,Graham,TX,USA
+E19,Gruver,TX,USA
+E24,Whiteriver,AZ,USA
+E25,Wickenburg,AZ,USA
+E26,Jal,NM,USA
+E35,Fabens,TX,USA
+E38,Alpine,TX,USA
+E42,Spearman,TX,USA
+E51,Bagdad,AZ,USA
+E52,Vega,TX,USA
+E60,Eloy,AZ,USA
+E63,Gila Bend,AZ,USA
+E80,Belen,NM,USA
+E89,Conchas Dam,NM,USA
+E91,Chinle,AZ,USA
+E94,Glenwood,NM,USA
+E95,Benson,AZ,USA
+EAA,Eagle,AK,USA
+EAN,Wheatland,WY,USA
+EAR,Kearney,NE,USA
+EAT,Wenatchee,WA,USA
+EAU,Eau Claire,WI,USA
+EBS,Webster City,IA,USA
+ECG,Elizabeth City,NC,USA
+ECS,Newcastle,WY,USA
+EDE,Edenton,NC,USA
+EDN,Enterprise,AL,USA
+EED,Needles,CA,USA
+EEK,Eek,AK,USA
+EEN,Keene,NH,USA
+EEO,Meeker,CO,USA
+EET,Alabaster,AL,USA
+EFC,Belle Fourche,SD,USA
+EFD,Houston,TX,USA
+EFK,Newport,VT,USA
+EFT,Monroe,WI,USA
+EFW,Jefferson,IA,USA
+EGE,Eagle,CO,USA
+EGQ,Emmetsburg,IA,USA
+EGT,Wellington,KS,USA
+EGV,Eagle River,WI,USA
+EHA,Elkhart,KS,USA
+EHO,Shelby,NC,USA
+EHR,Henderson,KY,USA
+EII,Egegik,AK,USA
+EIW,New Madrid,MO,USA
+EKA,Eureka,CA,USA
+EKM,Elkhart,IN,USA
+EKN,Elkins,WV,USA
+EKO,Elko,NV,USA
+EKQ,Monticello,KY,USA
+EKX,Elizabethtown,KY,USA
+EKY,Bessemer,AL,USA
+ELA,Eagle Lake,TX,USA
+ELD,El Dorado,AR,USA
+ELI,Elim,AK,USA
+ELK,Elk City,OK,USA
+ELM,Elmira,NY,USA
+ELN,Ellensburg,WA,USA
+ELO,Ely,MN,USA
+ELP,El Paso,TX,USA
+ELV,Elfin Cove,AK,USA
+ELY,Ely,NV,USA
+ELZ,Wellsville,NY,USA
+EMM,Kemmerer,WY,USA
+EMP,Emporia,KS,USA
+EMT,El Monte,CA,USA
+EMV,Emporia,VA,USA
+ENA,Kenai,AK,USA
+ENL,Centralia,IL,USA
+ENM,Emmonak,AK,USA
+ENN,Nenana,AK,USA
+ENV,Wendover,UT,USA
+ENW,Kenosha,WI,USA
+EOK,Keokuk,IA,USA
+EOS,Neosho,MO,USA
+EPH,Ephrata,WA,USA
+EPM,Eastport,ME,USA
+EQA,El Dorado,KS,USA
+EQY,Monroe,NC,USA
+ERI,Erie,PA,USA
+ERV,Kerrville,TX,USA
+ERY,Newberry,MI,USA
+ESC,Escanaba,MI,USA
+ESF,Alexandria,LA,USA
+ESN,Easton,MD,USA
+EST,Estherville,IA,USA
+ETB,West Bend,WI,USA
+ETC,Tarboro,NC,USA
+ETH,Wheaton,MN,USA
+ETN,Eastland,TX,USA
+EUF,Eufaula,AL,USA
+EUG,Eugene,OR,USA
+EUL,Caldwell (Boise),ID,USA
+EVB,New Smyrna Beach,FL,USA
+EVM,Eveleth,MN,USA
+EVU,Maryville,MO,USA
+EVV,Evansville,IN,USA
+EVW,Evanston,WY,USA
+EVY,Middletown,DE,USA
+EWB,New Bedford,MA,USA
+EWK,Newton,KS,USA
+EWN,New Bern,NC,USA
+EWR,Newark,NJ,USA
+EWU,Newtok,AK,USA
+EXI,Excursion Inlet,AK,USA
+EXX,Lexington,NC,USA
+EYE,Indianapolis,IN,USA
+EYW,Key West,FL,USA
+EZI,Kewanee,IL,USA
+EZM,Eastman,GA,USA
+EZZ,Cameron,MO,USA
+F00,Bonham,TX,USA
+F01,Quanah,TX,USA
+F05,Vernon,TX,USA
+F06,Wellington,TX,USA
+F08,Eufaula,OK,USA
+F10,Henryetta,OK,USA
+F12,Henderson,TX,USA
+F17,Center,TX,USA
+F18,Cleburne,TX,USA
+F21,Memphis,TX,USA
+F22,Perry,OK,USA
+F24,Minden,LA,USA
+F28,El Reno,OK,USA
+F29,Oklahoma City,OK,USA
+F30,Sulphur,OK,USA
+F31,Kingston,OK,USA
+F32,Healdton,OK,USA
+F36,Cordell,OK,USA
+F37,Wauchula,FL,USA
+F39,Sherman/Denison,TX,USA
+F41,Ennis,TX,USA
+F44,Athens,TX,USA
+F45,West Palm Beach,FL,USA
+F46,Rockwall,TX,USA
+F49,Slaton,TX,USA
+F51,Winnsboro,TX,USA
+F53,Mount Vernon,TX,USA
+F55,Granbury,TX,USA
+F56,Stamford,TX,USA
+F70,Murieta/Temecula,CA,USA
+F80,Atoka,OK,USA
+F81,Okemah,OK,USA
+F84,Stigler,OK,USA
+F85,Morton,TX,USA
+F87,Farmerville,LA,USA
+F88,Jonesboro,LA,USA
+F89,Winnsboro,LA,USA
+F91,Weatherford,OK,USA
+F99,Holdenville,OK,USA
+FAI,Fairbanks,AK,USA
+FAM,Farmington,MO,USA
+FAQ,Fitiuta Village,AS,USA
+FAR,Fargo,ND,USA
+FAT,Fresno,CA,USA
+FAY,Fayetteville,NC,USA
+FBL,Faribault,MN,USA
+FBR,Fort Bridger,WY,USA
+FBY,Fairbury,NE,USA
+FCA,Kalispell,MT,USA
+FCH,Fresno,CA,USA
+FCI,Richmond,VA,USA
+FCM,Minneapolis,MN,USA
+FCY,Forrest City,AR,USA
+FDK,Frederick,MD,USA
+FDR,Frederick,OK,USA
+FDW,Winnsboro,SC,USA
+FDY,Findlay,OH,USA
+FEP,Freeport,IL,USA
+FET,Fremont,NE,USA
+FFA,Kill Devil Hills,NC,USA
+FFC,Atlanta,GA,USA
+FFL,Fairfield,IA,USA
+FFM,Fergus Falls,MN,USA
+FFT,Frankfort,KY,USA
+FFZ,Mesa,AZ,USA
+FGX,Flemingsburg,KY,USA
+FHR,Friday Harbor,WA,USA
+FHU,Fort Huachuca-Sierra Vista,AZ,USA
+FIG,Clearfield,PA,USA
+FIT,Fitchburg,MA,USA
+FKL,Franklin,PA,USA
+FKN,Franklin,VA,USA
+FKR,Frankfort,IN,USA
+FLD,Fond Du Lac,WI,USA
+FLG,Flagstaff,AZ,USA
+FLL,Ft. Lauderdale,FL,USA
+FLO,Florence,SC,USA
+FLP,Flippin,AR,USA
+FLT,Flat,AK,USA
+FLX,Fallon,NV,USA
+FME,Odenton,MD,USA
+FMN,Farmington,NM,USA
+FMY,Ft. Myers,FL,USA
+FMZ,Fairmont,NE,USA
+FNB,Falls City,NE,USA
+FNL,Fort Collins/Loveland,CO,USA
+FNR,Funter Bay,AK,USA
+FNT,Flint,MI,USA
+FOA,Flora,IL,USA
+FOD,Fort Dodge,IA,USA
+FOE,Topeka,KS,USA
+FOK,Westhampton Beach,NY,USA
+FOT,Fortuna,CA,USA
+FPR,Ft. Pierce,FL,USA
+FQD,Rutherfordton,NC,USA
+FRG,Farmingdale,NY,USA
+FRH,French Lick,IN,USA
+FRM,Fairmont,MN,USA
+FRR,Front Royal,VA,USA
+FSD,Sioux Falls,SD,USA
+FSE,Fosston,MN,USA
+FSK,Fort Scott,KS,USA
+FSM,Fort Smith,AR,USA
+FSO,Highgate,VT,USA
+FST,Fort Stockton,TX,USA
+FSU,Fort Sumner,NM,USA
+FSW,Fort Madison,IA,USA
+FTG,Denver,CO,USA
+FTT,Fulton,MO,USA
+FTW,Fort Worth,TX,USA
+FTY,Atlanta,GA,USA
+FUL,Fullerton,CA,USA
+FVE,Frenchville,ME,USA
+FVX,Farmville,VA,USA
+FWA,Fort Wayne,IN,USA
+FWC,Fairfield,IL,USA
+FWN,Sussex,NJ,USA
+FWS,Fort Worth,TX,USA
+FXE,Ft. Lauderdale,FL,USA
+FXY,Forest City,IA,USA
+FYE,Somerville,TN,USA
+FYM,Fayetteville,TN,USA
+FYU,Fort Yukon,AK,USA
+FYV,Fayetteville,AR,USA
+FZG,Fitzgerald,GA,USA
+FZI,Fostoria,OH,USA
+FZY,Fulton,NY,USA
+GAB,Gabbs,NV,USA
+GAD,Gadsden,AL,USA
+GAF,Grafton,ND,USA
+GAG,Gage,OK,USA
+GAI,Gaithersburg,MD,USA
+GAL,Galena,AK,USA
+GAM,Gambell,AK,USA
+GAS,Gallipolis,OH,USA
+GBD,Great Bend,KS,USA
+GBG,Galesburg,IL,USA
+GBH,Galbraith Lake,AK,USA
+GBR,Great Barrington,MA,USA
+GCC,Gillette,WY,USA
+GCK,Garden City,KS,USA
+GCM,Claremore,OK,USA
+GCN,Grand Canyon,AZ,USA
+GCT,Guthrie Center,IA,USA
+GCY,Greeneville,TN,USA
+GDM,Gardner,MA,USA
+GDV,Glendive,MT,USA
+GDW,Gladwin,MI,USA
+GDY,Grundy,VA,USA
+GED,Georgetown,DE,USA
+GEG,Spokane,WA,USA
+GEO,Georgetown,OH,USA
+GEU,Glendale,AZ,USA
+GEY,Greybull,WY,USA
+GEZ,Shelbyville,IN,USA
+GFK,Grand Forks,ND,USA
+GFL,Glens Falls,NY,USA
+GFZ,Greenfield,IA,USA
+GGE,Georgetown,SC,USA
+GGF,Grant,NE,USA
+GGG,Longview,TX,USA
+GGI,Grinnell,IA,USA
+GGP,Logansport,IN,USA
+GGW,Glasgow,MT,USA
+GHM,Centerville,TN,USA
+GHW,Glenwood,MN,USA
+GIF,Winter Haven,FL,USA
+GJT,Grand Junction,CO,USA
+GKJ,Meadville,PA,USA
+GKN,Gulkana,AK,USA
+GKT,Sevierville,TN,USA
+GKY,Arlington,TX,USA
+GLD,Goodland,KS,USA
+GLE,Gainesville,TX,USA
+GLH,Greenville,MS,USA
+GLR,Gaylord,MI,USA
+GLS,Galveston,TX,USA
+GLW,Glasgow,KY,USA
+GLY,Clinton,MO,USA
+GMJ,Grove,OK,USA
+GMU,Greenville,SC,USA
+GNB,Granby,CO,USA
+GNF,Grenada,MS,USA
+GNG,Gooding,ID,USA
+GNT,Grants,NM,USA
+GNU,Goodnews,AK,USA
+GNV,Gainesville,FL,USA
+GOK,Guthrie,OK,USA
+GON,Groton,CT,USA
+GPH,Mosby,MO,USA
+GPM,Grand Prairie,TX,USA
+GPT,Gulfport-Biloxi,MS,USA
+GPZ,Grand Rapids,MN,USA
+GQQ,Galion,OH,USA
+GRB,Green Bay,WI,USA
+GRD,Greenwood,SC,USA
+GRE,Greenville,IL,USA
+GRI,Grand Island,NE,USA
+GRK,Killeen,TX,USA
+GRN,Gordon,NE,USA
+GRO,Rota Island,CQ,USA
+GRR,Grand Rapids,MI,USA
+GSH,Goshen,IN,USA
+GSN,Obyan,CQ,USA
+GSO,Greensboro,NC,USA
+GSP,Greer,SC,USA
+GST,Gustavus,AK,USA
+GTF,Great Falls,MT,USA
+GTR,Columbus-Starkville-West Point,MS,USA
+GTU,Georgetown,TX,USA
+GUC,Gunnison,CO,USA
+GUM,Agana,GU,USA
+GUP,Gallup,NM,USA
+GUY,Guymon,OK,USA
+GVL,Gainesville,GA,USA
+GVQ,Batavia,NY,USA
+GVT,Greenville,TX,USA
+GWO,Greenwood,MS,USA
+GWR,Gwinner,ND,USA
+GWW,Goldsboro,NC,USA
+GXY,Greeley,CO,USA
+GYH,Greenville,SC,USA
+GYR,Goodyear,AZ,USA
+GYY,Gary,IN,USA
+GZH,Evergreen,AL,USA
+GZS,Pulaski,TN,USA
+H04,Vinita,OK,USA
+H05,Wilburton,OK,USA
+H19,Bowling Green,MO,USA
+H21,Camdenton,MO,USA
+H30,Hamilton,NY,USA
+H35,Clarksville,AR,USA
+H41,Mexico,MO,USA
+H45,Seminole,OK,USA
+H66,Nowata,OK,USA
+H71,Pryor,OK,USA
+H79,Eldon,MO,USA
+H88,Fredericktown,MO,USA
+H92,Hominy,OK,USA
+H96,Benton,IL,USA
+H97,Pawnee,OK,USA
+HAB,Hamilton,AL,USA
+HAE,Hannibal,MO,USA
+HAF,Half Moon Bay,CA,USA
+HAI,Three Rivers,MI,USA
+HAO,Hamilton,OH,USA
+HAY,Haycock,AK,USA
+HBC,Mohall,ND,USA
+HBG,Hattiesburg,MS,USA
+HBR,Hobart,OK,USA
+HBV,Hebbronville,TX,USA
+HBZ,Heber Springs,AR,USA
+HCD,Hutchinson,MN,USA
+HCO,Hallock,MN,USA
+HDC,Hammond,LA,USA
+HDE,Holdredge,NE,USA
+HDH,Mokuleia,HI,USA
+HDI,Cleveland,TN,USA
+HDN,Hayden,CO,USA
+HDO,Hondo,TX,USA
+HEE,Helena-West Helena,AR,USA
+HEF,Manassas,VA,USA
+HEI,Hettinger,ND,USA
+HEQ,Holyoke,CO,USA
+HEZ,Natchez,MS,USA
+HFD,Hartford,CT,USA
+HFY,Indianapolis/Greenwood,IN,USA
+HGR,Hagerstown,MD,USA
+HHF,Canadian,TX,USA
+HHG,Huntington,IN,USA
+HHH,NA,NA,USA
+HHR,Hawthorne,CA,USA
+HHW,Hugo,OK,USA
+HI01,Hanalei,HI,USA
+HIB,Hibbing,MN,USA
+HIE,Whitefield,NH,USA
+HIG,Higginsville,MO,USA
+HII,Lake Havasu City,AZ,USA
+HIO,Hillsboro (Portland),OR,USA
+HJH,Hebron,NE,USA
+HJO,Hanford,CA,USA
+HKA,Blytheville,AR,USA
+HKS,Jackson,MS,USA
+HKY,Hickory,NC,USA
+HLC,Hill City,KS,USA
+HLG,Wheeling,WV,USA
+HLN,Helena,MT,USA
+HLX,Galax,VA,USA
+HMT,Hemet,CA,USA
+HMZ,Bedford,PA,USA
+HNB,Huntingburg,IN,USA
+HNH,Hoonah,AK,USA
+HNL,Honolulu,HI,USA
+HNM,Hana,HI,USA
+HNR,Harlan,IA,USA
+HNS,Haines,AK,USA
+HNZ,Oxford,NC,USA
+HOB,Hobbs,NM,USA
+HOC,Hillsboro,OH,USA
+HOE,Homerville,GA,USA
+HOM,Homer,AK,USA
+HON,Huron,SD,USA
+HOT,Hot Springs,AR,USA
+HOU,Houston,TX,USA
+HPB,Hooper Bay,AK,USA
+HPN,White Plains,NY,USA
+HPT,Hampton,IA,USA
+HQG,Hugoton,KS,USA
+HQM,Hoquiam,WA,USA
+HQU,Thomson,GA,USA
+HQZ,Mesquite,TX,USA
+HRI,Hermiston,OR,USA
+HRL,Harlingen,TX,USA
+HRO,Harrison,AR,USA
+HRR,Healy,AK,USA
+HRU,Herington,KS,USA
+HRX,Hereford,TX,USA
+HSA,Bay St Louis,MS,USA
+HSB,Harrisburg,IL,USA
+HSE,Hatteras,NC,USA
+HSI,Hastings,NE,USA
+HSL,Huslia,AK,USA
+HSP,Hot Springs,VA,USA
+HSR,Hot Springs,SD,USA
+HSV,Huntsville,AL,USA
+HTH,Hawthorne,NV,USA
+HTL,Houghton Lake,MI,USA
+HTO,East Hampton,NY,USA
+HTS,Huntington,WV,USA
+HTW,Chesapeake,OH,USA
+HUF,Terre Haute,IN,USA
+HUL,Houlton,ME,USA
+HUM,Houma,LA,USA
+HUS,Hughes,AK,USA
+HUT,Hutchinson,KS,USA
+HVC,Hopkinsville,KY,USA
+HVE,Hanksville,UT,USA
+HVN,New Haven,CT,USA
+HVR,Havre,MT,USA
+HVS,Hartsville,SC,USA
+HWD,Hayward,CA,USA
+HWI,Hawk Inlet,AK,USA
+HWO,Hollywood,FL,USA
+HWQ,Harlowton,MT,USA
+HWV,Shirley,NY,USA
+HXD,Hilton Head Island,SC,USA
+HXF,Hartford,WI,USA
+HYA,Hyannis,MA,USA
+HYG,Hydaburg,AK,USA
+HYI,San Marcos,TX,USA
+HYL,Hollis,AK,USA
+HYR,Hayward,WI,USA
+HYS,Hays,KS,USA
+HYW,Conway,SC,USA
+HZD,Huntingdon,TN,USA
+HZE,Hazen,ND,USA
+HZL,Hazleton,PA,USA
+HZR,New Roads,LA,USA
+HZY,Ashtabula,OH,USA
+I05,Sturgis,KY,USA
+I12,Sidney,OH,USA
+I16,Pineville,WV,USA
+I18,Ravenswood,WV,USA
+I19,Dayton,OH,USA
+I22,Winchester,IN,USA
+I23,Washington Court House,OH,USA
+I25,Welch,WV,USA
+I32,Morehead,KY,USA
+I34,Greensburg,IN,USA
+I35,Harlan,KY,USA
+I39,Richmond,KY,USA
+I40,Coshocton,OH,USA
+I42,Paoli,IN,USA
+I43,Jackson,OH,USA
+I50,Stanton,KY,USA
+I57,Waverly,OH,USA
+I63,Mt. Sterling,IL,USA
+I66,Wilmington,OH,USA
+I67,Harrison,OH,USA
+I68,Lebanon,OH,USA
+I69,Batavia,OH,USA
+I74,Urbana,OH,USA
+I75,Osceola,IA,USA
+I76,Peru,IN,USA
+I78,Marysville,OH,USA
+I83,Salem,IN,USA
+I86,New Lexington,OH,USA
+I88,Pontiac,IL,USA
+I93,Hardinsburg,KY,USA
+I95,Kenton,OH,USA
+IAD,Chantilly,VA,USA
+IAG,Niagara Falls,NY,USA
+IAH,Houston,TX,USA
+IAN,Kiana,AK,USA
+IBM,Kimball,NE,USA
+ICL,Clarinda,IA,USA
+ICT,Wichita,KS,USA
+IDA,Idaho Falls,ID,USA
+IDI,Indiana,PA,USA
+IDL,Indianola,MS,USA
+IDP,Independence,KS,USA
+IEM,Whittier,AK,USA
+IEN,Pine Ridge,SD,USA
+IER,Natchitoches,LA,USA
+IFA,Iowa Falls,IA,USA
+IFP,Bullhead City,AZ,USA
+IGG,Igiugig,AK,USA
+IGM,Kingman,AZ,USA
+IGQ,Chicago/Lansing,IL,USA
+IGT,Nightmute,AK,USA
+IIB,Independence,IA,USA
+IIK,Kipnuk,AK,USA
+IIY,Washington,GA,USA
+IJD,Willimantic,CT,USA
+IJX,Jacksonville,IL,USA
+IKK,Kankakee,IL,USA
+IKV,Ankeny,IA,USA
+ILE,Killeen,TX,USA
+ILG,Wilmington,DE,USA
+ILI,Iliamna,AK,USA
+ILM,Wilmington,NC,USA
+IML,Imperial,NE,USA
+IMM,Immokalee,FL,USA
+IMS,Madison,IN,USA
+IMT,Iron Mountain/Kingsford,MI,USA
+IN03,Indianapolis,IN,USA
+IND,Indianapolis,IN,USA
+INK,Wink,TX,USA
+INL,International Falls,MN,USA
+INT,Winston-Salem,NC,USA
+INW,Winslow,AZ,USA
+IOB,Mount Sterling,KY,USA
+IOW,Iowa City,IA,USA
+IPJ,Lincolnton,NC,USA
+IPL,Imperial,CA,USA
+IPT,Williamsport,PA,USA
+IRK,Kirksville,MO,USA
+IRS,Sturgis,MI,USA
+ISM,Orlando,FL,USA
+ISN,Williston,ND,USA
+ISO,Kinston,NC,USA
+ISP,Islip,NY,USA
+ISQ,Manistique,MI,USA
+ISW,Wisconsin Rapids,WI,USA
+ISZ,Cincinnati,OH,USA
+ITH,Ithaca,NY,USA
+ITO,Hilo,HI,USA
+ITR,Burlington,CO,USA
+IWA,Phoenix,AZ,USA
+IWD,Ironwood,MI,USA
+IWH,Wabash,IN,USA
+IWI,Wiscasset,ME,USA
+IWK,Wales,AK,USA
+IWS,Houston,TX,USA
+IXD,Olathe,KS,USA
+IYK,Inyokern,CA,USA
+IYS,Wasilla,AK,USA
+IZA,Santa Ynez,CA,USA
+IZG,Fryeburg,ME,USA
+JAC,Jackson,WY,USA
+JAN,Jackson,MS,USA
+JAS,Jasper,TX,USA
+JAU,Jacksboro,TN,USA
+JAX,Jacksonville,FL,USA
+JBR,Jonesboro,AR,USA
+JCT,Junction,TX,USA
+JDN,Jordan,MT,USA
+JEF,Jefferson City,MO,USA
+JER,Jerome,ID,USA
+JES,Jesup,GA,USA
+JFK,New York,NY,USA
+JFX,Jasper,AL,USA
+JHM,Lahaina,HI,USA
+JHW,Jamestown,NY,USA
+JKA,Gulf Shores,AL,USA
+JKJ,Moorhead,MN,USA
+JKL,Jackson,KY,USA
+JLN,Joplin,MO,USA
+JMR,Mora,MN,USA
+JMS,Jamestown,ND,USA
+JNU,Juneau,AK,USA
+JNX,Smithfield,NC,USA
+JOT,Chicago/Joliet,IL,USA
+JQF,Concord,NC,USA
+JRA,New York,NY,USA
+JRB,New York,NY,USA
+JRF,Kapolei,HI,USA
+JSO,Jacksonville,TX,USA
+JST,Johnstown,PA,USA
+JVL,Janesville,WI,USA
+JVY,Jeffersonville,IN,USA
+JWG,Watonga,OK,USA
+JWN,Nashville,TN,USA
+JXN,Jackson,MI,USA
+JYG,St James,MN,USA
+JYL,Sylvania,GA,USA
+JYM,Hillsdale,MI,USA
+JYO,Leesburg,VA,USA
+JYR,York,NE,USA
+JZI,Charleston,SC,USA
+JZP,Jasper,GA,USA
+JZZ,Koliganek,AK,USA
+K01,Auburn,NE,USA
+K02,Perryville,MO,USA
+K06,Beardstown,IL,USA
+K09,Piseco,NY,USA
+K15,Osage Beach,MO,USA
+K20,Hazard,KY,USA
+K22,Prestonburg,KY,USA
+K24,Jamestown,KY,USA
+K29,Council,AK,USA
+K33,Salem,MO,USA
+K34,Gardner,KS,USA
+K39,St Clair,MO,USA
+K46,Blair,NE,USA
+K54,Teller,AK,USA
+K57,Tarkio,MO,USA
+K59,Atchison,KS,USA
+K61,Beloit,KS,USA
+K62,Falmouth,KY,USA
+K67,Oswego,KS,USA
+K68,Garnett,KS,USA
+K78,Abilene.,KS,USA
+K81,Paola,KS,USA
+K82,Smith Center,KS,USA
+K83,Sabetha,KS,USA
+K88,Iola,KS,USA
+K89,Macon,MO,USA
+K96,Tuscola,IL,USA
+KAE,Kake,AK,USA
+KAL,Kaltag,AK,USA
+KCC,Coffman Cove,AK,USA
+KCL,Chignik Flats,AK,USA
+KEB,English Bay,AK,USA
+KEK,Ekwok,AK,USA
+KFP,False Pass,AK,USA
+KGX,Grayling,AK,USA
+KIB,Ivanof Bay,AK,USA
+KIC,King City,CA,USA
+KKA,Koyuk,AK,USA
+KKB,Kitoi Bay,AK,USA
+KLG,Kalskag,AK,USA
+KLL,Levelock,AK,USA
+KLS,Kelso,WA,USA
+KNB,Kanab,UT,USA
+KNW,New Stuyahok,AK,USA
+KOA,Kailua/Kona,HI,USA
+KPB,Point Baker,AK,USA
+KPH,Pauloff Harbor,AK,USA
+KQA,Akutan,AK,USA
+KSM,St. Mary's,AK,USA
+KTB,Thorne Bay,AK,USA
+KTN,Ketchikan,AK,USA
+KTS,Brevig Mission,AK,USA
+KVC,King Cove,AK,USA
+KVL,Kivalina,AK,USA
+KWT,Kwethluk,AK,USA
+KXA,Kasaan,AK,USA
+KYK,Karluk,AK,USA
+KYU,Koyukuk,AK,USA
+L04,Holtville,CA,USA
+L05,Kernville,CA,USA
+L06,Death Valley National Park,CA,USA
+L08,Borrego Springs,CA,USA
+L12,Redlands,CA,USA
+L15,Las Vegas,NV,USA
+L17,Taft,CA,USA
+L18,Fallbrook,CA,USA
+L19,Wasco,CA,USA
+L26,Hesperia,CA,USA
+L31,Covington,LA,USA
+L35,Big Bear,CA,USA
+L38,Gonzales,LA,USA
+L39,Leesville,LA,USA
+L42,Oakdale,LA,USA
+L45,Bakersfield,CA,USA
+L49,Galliano,LA,USA
+L52,Oceano,CA,USA
+L67,Rialto,CA,USA
+L70,Agua Dulce,CA,USA
+L71,California City,CA,USA
+L72,Trona,CA,USA
+L75,Sulphur,LA,USA
+L83,Thibodaux,LA,USA
+L84,Lost Hills,CA,USA
+L92,Alamo,NV,USA
+LAA,Lamar,CO,USA
+LAF,Lafayette,IN,USA
+LAL,Lakeland,FL,USA
+LAM,Los Alamos,NM,USA
+LAN,Lansing,MI,USA
+LAR,Laramie,WY,USA
+LAS,Las Vegas,NV,USA
+LAW,Lawton,OK,USA
+LAX,Los Angeles,CA,USA
+LBB,Lubbock,TX,USA
+LBE,Latrobe,PA,USA
+LBF,North Platte,NE,USA
+LBL,Liberal,KS,USA
+LBO,Lebanon,MO,USA
+LBT,Lumberton,NC,USA
+LBX,Angleton,TX,USA
+LCG,Wayne,NE,USA
+LCH,Lake Charles,LA,USA
+LCI,Laconia,NH,USA
+LCK,Columbus,OH,USA
+LCQ,Lake City,FL,USA
+LDJ,Linden,NJ,USA
+LDM,Ludington,MI,USA
+LEB,Lebanon,NH,USA
+LEE,Leesburg,FL,USA
+LEM,Lemmon,SD,USA
+LEW,Auburn-Lewiston,ME,USA
+LEX,Lexington,KY,USA
+LFK,Lufkin,TX,USA
+LFT,Lafayette,LA,USA
+LGA,New York,NY,USA
+LGB,Long Beach,CA,USA
+LGC,Lagrange,GA,USA
+LGD,La Grande,OR,USA
+LGU,Logan,UT,USA
+LHD,Anchorage,AK,USA
+LHM,Lincoln,CA,USA
+LHQ,Lancaster,OH,USA
+LHV,Lock Haven,PA,USA
+LHX,La Junta,CO,USA
+LHZ,Louisburg,NC,USA
+LIC,Limon,CO,USA
+LIH,Lihue,HI,USA
+LIT,Little Rock,AR,USA
+LJF,Litchfield,MN,USA
+LKP,Lake Placid,NY,USA
+LKR,Lancaster,SC,USA
+LKU,Louisa,VA,USA
+LKV,Lakeview,OR,USA
+LLJ,Challis,ID,USA
+LLQ,Monticello,AR,USA
+LLU,Lamar,MO,USA
+LMS,Louisville,MS,USA
+LMT,Klamath Falls,OR,USA
+LNA,Lantana,FL,USA
+LNC,Lancaster,TX,USA
+LND,Lander,WY,USA
+LNK,Lincoln,NE,USA
+LNL,Land O' Lakes,WI,USA
+LNN,Willoughby,OH,USA
+LNP,Wise,VA,USA
+LNS,Lancaster,PA,USA
+LNY,Lanai City,HI,USA
+LOL,Lovelock,NV,USA
+LOT,Chicago/Romeoville,IL,USA
+LOU,Louisville,KY,USA
+LOZ,London,KY,USA
+LPC,Lompoc,CA,USA
+LPR,Lorain/Elyria,OH,USA
+LQK,Pickens,SC,USA
+LQR,Larned,KS,USA
+LRD,Laredo,TX,USA
+LRG,Lincoln,ME,USA
+LRJ,Le Mars,IA,USA
+LRU,Las Cruces,NM,USA
+LSB,Lordsburg,NM,USA
+LSE,La Crosse,WI,USA
+LSK,Lusk,WY,USA
+LSN,Los Banos,CA,USA
+LUG,Lewisburg,TN,USA
+LUK,Cincinnati,OH,USA
+LUL,Laurel,MS,USA
+LUP,Kalaupapa,HI,USA
+LVJ,Houston,TX,USA
+LVK,Livermore,CA,USA
+LVM,Livingston,MT,USA
+LVN,Minneapolis,MN,USA
+LVS,Las Vegas,NM,USA
+LWB,Lewisburg,WV,USA
+LWC,Lawrence,KS,USA
+LWD,Lamoni,IA,USA
+LWL,Wells,NV,USA
+LWM,Lawrence,MA,USA
+LWS,Lewiston,ID,USA
+LWT,Lewistown,MT,USA
+LWV,Lawrenceville,IL,USA
+LXL,Little Falls,MN,USA
+LXN,Lexington,NE,USA
+LXT,Lee's Summit,MO,USA
+LXV,Leadville,CO,USA
+LXY,Mexia,TX,USA
+LYH,Lynchburg,VA,USA
+LYO,Lyons,KS,USA
+LZU,Lawrenceville,GA,USA
+M01,Memphis,TN,USA
+M02,Dickson,TN,USA
+M03,Conway,AR,USA
+M04,Covington,TN,USA
+M05,Caruthersville,MO,USA
+M08,Bolivar,TN,USA
+M09,Piedmont,MO,USA
+M11,Crystal Springs,MS,USA
+M13,Poplarville,MS,USA
+M15,Linden,TN,USA
+M16,Raymond,MS,USA
+M17,Bolivar,MO,USA
+M18,Hope,AR,USA
+M19,Newport,AR,USA
+M21,Greenville,KY,USA
+M22,Russellville,AL,USA
+M23,Newton,MS,USA
+M24,Wiggins,MS,USA
+M25,Mayfield,KY,USA
+M27,Waldron,AR,USA
+M29,Clifton,TN,USA
+M30,Metropolis,IL,USA
+M32,Lake Village,AR,USA
+M33,Gallatin,TN,USA
+M34,Gilbertsville,KY,USA
+M36,Brinkley,AR,USA
+M37,Drew,MS,USA
+M39,Mena,AR,USA
+M40,Aberdeen-Amory,MS,USA
+M41,Holly Springs,MS,USA
+M43,Prentiss,MS,USA
+M44,Houston,MS,USA
+M46,Colstrip,MT,USA
+M48,Houston,MO,USA
+M52,Lexington,TN,USA
+M53,Humboldt,TN,USA
+M54,Lebanon,TN,USA
+M58,Monett,MO,USA
+M59,Richton,MS,USA
+M60,Augusta,AR,USA
+M65,Wynne,AR,USA
+M70,Pocahontas,AR,USA
+M72,New Albany,MS,USA
+M73,Almyra,AR,USA
+M75,Malta,MT,USA
+M76,Picayune,MS,USA
+M77,Nashville,AR,USA
+M78,Malvern,AR,USA
+M79,Rayville,LA,USA
+M82,Huntsville,AL,USA
+M83,West Point,MS,USA
+M89,Arkadelphia,AR,USA
+M91,Springfield,TN,USA
+M95,Fayette,AL,USA
+M97,Tunica,MS,USA
+M99,Benton,AR,USA
+MAC,Macon,GA,USA
+MAE,Madera,CA,USA
+MAF,Midland,TX,USA
+MAI,Marianna,FL,USA
+MAL,Malone,NY,USA
+MAO,Marion,SC,USA
+MAW,Malden,MO,USA
+MAZ,Mayaguez,PR,USA
+MBG,Mobridge,SD,USA
+MBL,Manistee,MI,USA
+MBO,Madison,MS,USA
+MBS,Saginaw,MI,USA
+MBT,Murfreesboro,TN,USA
+MBY,Moberly,MO,USA
+MCB,McComb,MS,USA
+MCD,Mackinac Island,MI,USA
+MCE,Merced,CA,USA
+MCG,McGrath,AK,USA
+MCI,Kansas City,MO,USA
+MCK,McCook,NE,USA
+MCN,Macon,GA,USA
+MCO,Orlando,FL,USA
+MCW,Mason City,IA,USA
+MCX,Monticello,IN,USA
+MCZ,Williamston,NC,USA
+MDD,Midland,TX,USA
+MDF,Mooreland,OK,USA
+MDH,Carbondale,IL,USA
+MDR,Medfra,AK,USA
+MDS,Madison,SD,USA
+MDT,Harrisburg,PA,USA
+MDW,Chicago,IL,USA
+MDZ,Medford,WI,USA
+MEB,Maxton,NC,USA
+MEI,Meridian,MS,USA
+MEJ,Meade,KS,USA
+MEM,Memphis,TN,USA
+MER,Atwater,CA,USA
+MEV,Minden,NV,USA
+MEY,Mapleton,IA,USA
+MFD,Mansfield,OH,USA
+MFE,McAllen,TX,USA
+MFI,Marshfield,WI,USA
+MFR,Medford,OR,USA
+MFV,Melfa,VA,USA
+MGC,Michigan City,IN,USA
+MGJ,Montgomery,NY,USA
+MGM,Montgomery,AL,USA
+MGR,Moultrie,GA,USA
+MGW,Morgantown,WV,USA
+MGY,Dayton,OH,USA
+MHE,Mitchell,SD,USA
+MHK,Manhattan,KS,USA
+MHL,Marshall,MO,USA
+MHM,Minchumina,AK,USA
+MHP,Metter,GA,USA
+MHR,Sacramento,CA,USA
+MHT,Manchester,NH,USA
+MHV,Mojave,CA,USA
+MIA,Miami,FL,USA
+MIB,NA,NA,USA
+MIC,Minneapolis,MN,USA
+MIE,Muncie,IN,USA
+MIO,Miami,OK,USA
+MIT,Shafter,CA,USA
+MIV,Millville,NJ,USA
+MIW,Marshalltown,IA,USA
+MJQ,Jackson,MN,USA
+MJX,Toms River,NJ,USA
+MKA,Miller,SD,USA
+MKC,Kansas City,MO,USA
+MKE,Milwaukee,WI,USA
+MKG,Muskegon,MI,USA
+MKJ,Marion,VA,USA
+MKK,Kaunakakai,HI,USA
+MKL,Jackson,TN,USA
+MKO,Muskogee,OK,USA
+MKT,Mankato,MN,USA
+MKV,Marksville,LA,USA
+MKY,Marco Island,FL,USA
+MLB,Melbourne,FL,USA
+MLC,McAlester,OK,USA
+MLE,Omaha,NE,USA
+MLF,Milford,UT,USA
+MLI,Moline,IL,USA
+MLJ,Milledgeville,GA,USA
+MLL,Marshall,AK,USA
+MLS,Miles City,MT,USA
+MLT,Millinocket,ME,USA
+MLU,Monroe,LA,USA
+MLY,Manley Hot Springs,AK,USA
+MMH,Mammoth Lakes,CA,USA
+MMI,Athens,TN,USA
+MMK,Meriden,CT,USA
+MML,Marshall,MN,USA
+MMU,Morristown,NJ,USA
+MMV,McMinnville,OR,USA
+MNF,Mountain View,MO,USA
+MNI,Manning,SC,USA
+MNM,Menominee,MI,USA
+MNN,Marion,OH,USA
+MNV,Madisonville,TN,USA
+MNZ,Hamilton,TX,USA
+MO6,Washington,MO,USA
+MO85,Harrisonville,MO,USA
+MOB,Mobile,AL,USA
+MOD,Modesto,CA,USA
+MOP,Mount Pleasant,MI,USA
+MOR,Morristown,TN,USA
+MOT,Minot,ND,USA
+MOU,Mountain Village,AK,USA
+MOX,Morris,MN,USA
+MPE,Philadelphia,MS,USA
+MPJ,Morrilton,AR,USA
+MPO,Mount Pocono,PA,USA
+MPR,McPherson,KS,USA
+MPV,Barre-Montpelier,VT,USA
+MPZ,Mount Pleasant,IA,USA
+MQB,Macomb,IL,USA
+MQI,Manteo,NC,USA
+MQJ,Indianapolis,IN,USA
+MQT,NA,NA,USA
+MQW,McRae,GA,USA
+MQY,Smyrna,TN,USA
+MRB,Martinsburg,WV,USA
+MRC,Columbia-Mt Pleasant,TN,USA
+MRF,Marfa,TX,USA
+MRH,Beaufort,NC,USA
+MRI,Anchorage,AK,USA
+MRJ,Mineral Point,WI,USA
+MRN,Morganton,NC,USA
+MRY,Monterey,CA,USA
+MSA,Mount Pleasant,TX,USA
+MSL,Muscle Shoals,AL,USA
+MSN,Madison,WI,USA
+MSO,Missoula,MT,USA
+MSP,Minneapolis,MN,USA
+MSS,Massena,NY,USA
+MSV,Monticello,NY,USA
+MSY,New Orleans,LA,USA
+MTH,Marathon,FL,USA
+MTJ,Montrose,CO,USA
+MTM,Metlakatla,AK,USA
+MTN,Baltimore,MD,USA
+MTO,Mattoon-Charleston,IL,USA
+MTP,Montauk,NY,USA
+MTV,Martinsville,VA,USA
+MTW,Manitowoc,WI,USA
+MUE,Kamuela,HI,USA
+MUT,Muscatine,IA,USA
+MVC,Monroeville,AL,USA
+MVE,Montevideo,MN,USA
+MVI,Monte Vista,CO,USA
+MVL,Morrisville,VT,USA
+MVM,Machias,ME,USA
+MVN,Mt. Vernon,IL,USA
+MVY,Marthas Vineyard,MA,USA
+MWA,Marion,IL,USA
+MWC,Milwaukee,WI,USA
+MWH,Moses Lake,WA,USA
+MWK,Mount Airy,NC,USA
+MWL,Mineral Wells,TX,USA
+MWM,Windom,MN,USA
+MWO,Middletown,OH,USA
+MXA,Manila,AR,USA
+MXO,Monticello,IA,USA
+MYF,San Diego,CA,USA
+MYK,May Creek,AK,USA
+MYL,McCall,ID,USA
+MYR,Myrtle Beach,SC,USA
+MYU,Mekoryuk,AK,USA
+MYV,Marysville,CA,USA
+MYZ,Marysville,KS,USA
+MZJ,Marana,AZ,USA
+MZZ,Marion,IN,USA
+N00,Lexington,NY,USA
+N03,Cortland,NY,USA
+N04,Madison,CT,USA
+N07,Lincoln Park,NJ,USA
+N10,Collegeville,PA,USA
+N12,Lakewood,NJ,USA
+N13,Bloomsburg,PA,USA
+N14,Lumbrerton,NJ,USA
+N23,Sidney,NY,USA
+N24,Questa,NM,USA
+N25,"Westport, NY",NY,USA
+N27,Towanda,PA,USA
+N29,Magdalena,NM,USA
+N30,Honesdale,PA,USA
+N35,Punxsutawney,PA,USA
+N37,Monticello ,NY,USA
+N38,Wellsboro,PA,USA
+N40,Pittstown,NJ,USA
+N47,Pottstown,PA,USA
+N51,Readington,NJ,USA
+N53,East Stroudsburg,PA,USA
+N57,Toughkenamon,PA,USA
+N66,Oneonta,NY,USA
+N67,Ambler,PA,USA
+N68,Chambersburg,PA,USA
+N69,Stormville,NY,USA
+N72,Warwick,NY,USA
+N73,Vincentown,NJ,USA
+N79,Shamokin,PA,USA
+N81,Hammonton,NJ,USA
+N82,Wurtsboro,NY,USA
+N85,Pittstown,NJ,USA
+N87,Robbinsville,NJ,USA
+N89,Ellenville,NY,USA
+N93,Golovin,AK,USA
+N99,West Chester,PA,USA
+NC14,Reidsville,NC,USA
+NC67,West Jefferson,NC,USA
+ND06,Cavalier,ND,USA
+ND12,Ellendale,ND,USA
+ND17,Harvey,ND,USA
+ND26,Kenmare,ND,USA
+ND28,Lakota,ND,USA
+ND29,La Moure (New Site),ND,USA
+ND33,Linton,ND,USA
+ND44,Mott,ND,USA
+ND66,Washburn,ND,USA
+NEW,New Orleans,LA,USA
+NH12,Plymouth,NH,USA
+NK03,Durhamville,NY,USA
+NQA,Millington,TN,USA
+NRN,Norton,KS,USA
+NUL,Nulato,AK,USA
+NVD,Nevada,MO,USA
+NY0,Johnstown,NY,USA
+O02,Beckwourth,CA,USA
+O05,Chester,CA,USA
+O08,Colusa,CA,USA
+O09,Covelo,CA,USA
+O11,Stilwell,OK,USA
+O15,Turlock,CA,USA
+O16,Garberville,CA,USA
+O17,Grass Valley,CA,USA
+O19,Eureka,CA,USA
+O21,Hoopa,CA,USA
+O22,Columbia,CA,USA
+O24,Lee Vining,CA,USA
+O26,Lone Pine,CA,USA
+O27,Oakdale,CA,USA
+O28,Willits,CA,USA
+O31,Healdsburg,CA,USA
+O32,Reedley,CA,USA
+O35,Hollis,OK,USA
+O37,Orland,CA,USA
+O41,Woodland,CA,USA
+O42,Woodlake,CA,USA
+O43,Yerington,NV,USA
+O45,Hooker,OK,USA
+O46,Weed,CA,USA
+O47,Prague,OK,USA
+O48,Little River,CA,USA
+O52,Yuba City,CA,USA
+O53,Medford,OK,USA
+O54,Weaverville,CA,USA
+O57,Bridgeport,CA,USA
+O59,Cedarville,CA,USA
+O60,Cloverdale,CA,USA
+O61,Cameron Park,CA,USA
+O65,Okeene,OK,USA
+O68,Mariposa,CA,USA
+O69,Petaluma,CA,USA
+O70,Jackson,CA,USA
+O81,Tulelake,CA,USA
+O85,Redding,CA,USA
+O86,Trinity Center,CA,USA
+O88,Rio Vista,CA,USA
+O89,Fall River Mills,CA,USA
+OAJ,Jacksonville,NC,USA
+OAK,Oakland,CA,USA
+OAR,Marina,CA,USA
+OBE,Okeechobee,FL,USA
+OBU,Kobuk,AK,USA
+OCF,Ocala,FL,USA
+OCH,Nacogdoches,TX,USA
+OCQ,Oconto,WI,USA
+OCW,Washington,NC,USA
+ODO,Odessa,TX,USA
+ODX,Ord,NE,USA
+OEB,Coldwater,MI,USA
+OEL,Oakley,KS,USA
+OEO,Osceola,WI,USA
+OFK,Norfolk,NE,USA
+OFP,Richmond,VA,USA
+OGA,Ogallala,NE,USA
+OGB,Orangeburg,SC,USA
+OGD,Ogden,UT,USA
+OGG,Kahului,HI,USA
+OGM,Ontonagon,MI,USA
+OGS,Ogdensburg,NY,USA
+OH17,Napoleon,OH,USA
+OH21,Norwalk,OH,USA
+OH30,Put In Bay,OH,USA
+OIC,Norwich,NY,USA
+OIN,Oberlin,KS,USA
+OJC,Olathe,KS,USA
+OKB,Oceanside,CA,USA
+OKC,Oklahoma City,OK,USA
+OKK,Kokomo,IN,USA
+OKM,Okmulgee,OK,USA
+OKS,Oshkosh,NE,USA
+OKV,Winchester,VA,USA
+OKZ,Sandersville,GA,USA
+OLD,Old Town,ME,USA
+OLE,Olean,NY,USA
+OLF,Wolf Point,MT,USA
+OLM,Olympia,WA,USA
+OLS,Nogales,AZ,USA
+OLU,Columbus,NE,USA
+OLV,Olive Branch,MS,USA
+OLY,Olney-Noble,IL,USA
+OLZ,Oelwein,IA,USA
+OMA,Omaha,NE,USA
+OME,Nome,AK,USA
+OMH,Orange,VA,USA
+OMK,Omak,WA,USA
+OMN,Ormond Beach,FL,USA
+ONA,Winona,MN,USA
+ONL,O Neill,NE,USA
+ONM,Socorro,NM,USA
+ONO,Ontario,OR,USA
+ONP,Newport,OR,USA
+ONT,Ontario,CA,USA
+ONY,Olney,TX,USA
+ONZ,Detroit - Grosse Ile,MI,USA
+OOA,Oskaloosa,IA,USA
+OOH,Hoonah,AK,USA
+OOK,Toksook Bay,AK,USA
+OPF,Miami,FL,USA
+OPL,Opelousas,LA,USA
+OPN,Thomaston,GA,USA
+OQU,North Kingstown,RI,USA
+OQW,Maquoketa,IA,USA
+OR33,Boardman,OR,USA
+ORB,Orr,MN,USA
+ORC,Orange City,IA,USA
+ORD,Chicago,IL,USA
+ORE,Orange,MA,USA
+ORF,Norfolk,VA,USA
+ORG,Orange,TX,USA
+ORH,Worcester,MA,USA
+ORI,Port Lions,AK,USA
+ORL,Orlando,FL,USA
+ORS,Eastsound,WA,USA
+ORT,Northway,AK,USA
+ORV,Noorvik,AK,USA
+OSC,Oscoda,MI,USA
+OSH,Oshkosh,WI,USA
+OSU,Columbus,OH,USA
+OSX,Kosciusko,MS,USA
+OTG,Worthington,MN,USA
+OTH,North Bend,OR,USA
+OTM,Ottumwa,IA,USA
+OTZ,Kotzebue,AK,USA
+OUN,Norman,OK,USA
+OVE,Oroville,CA,USA
+OVO,North Vernon,IN,USA
+OVS,Boscobel,WI,USA
+OWA,Owatonna,MN,USA
+OWB,Owensboro,KY,USA
+OWD,Norwood,MA,USA
+OWI,Ottawa,KS,USA
+OWK,Norridgewock,ME,USA
+OWX,Ottawa,OH,USA
+OXB,Ocean City,MD,USA
+OXC,Oxford,CT,USA
+OXD,Oxford,OH,USA
+OXI,Knox,IN,USA
+OXR,Oxnard,CA,USA
+OXV,Knoxville,IA,USA
+OYM,St Marys,PA,USA
+OZA,Ozona,TX,USA
+OZW,Howell,MI,USA
+P01,Ajo,AZ,USA
+P04,Bisbee,AZ,USA
+P08,Coolidge,AZ,USA
+P13,Globe,AZ,USA
+P14,Holbrook,AZ,USA
+P20,Parker,AZ,USA
+P32,Williams,AZ,USA
+P33,Willcox,AZ,USA
+P45,Mount Pleasant,PA,USA
+P52,Cottonwood,AZ,USA
+P53,Monongahela,PA,USA
+PAE,Everett,WA,USA
+PAH,Paducah,KY,USA
+PAK,Hanapepe,HI,USA
+PAN,Payson,AZ,USA
+PAO,Palo Alto,CA,USA
+PAQ,Palmer,AK,USA
+PBF,Pine Bluff,AR,USA
+PBH,Phillips,WI,USA
+PBI,West Palm Beach,FL,USA
+PBV,St. George,AK,USA
+PCK,Porcupine Creek,AK,USA
+PCM,Plant City,FL,USA
+PCW,Port Clinton,OH,USA
+PCZ,Waupaca,WI,USA
+PDC,Prairie Du Chien,WI,USA
+PDK,Atlanta,GA,USA
+PDT,Pendleton,OR,USA
+PDX,Portland,OR,USA
+PEA,Pella,IA,USA
+PEC,Pelican,AK,USA
+PEO,Penn Yan,NY,USA
+PEQ,Pecos City,TX,USA
+PEZ,Pleasanton,TX,USA
+PFN,Panama City,FL,USA
+PGA,Page,AZ,USA
+PGD,Punta Gorda,FL,USA
+PGM,Port Graham,AK,USA
+PGR,Paragould,AR,USA
+PGV,Greenville,NC,USA
+PHD,New Philadelphia,OH,USA
+PHF,Newport News,VA,USA
+PHG,Phillipsburg,KS,USA
+PHH,Andrews,SC,USA
+PHK,Pahokee,FL,USA
+PHL,Philadelphia,PA,USA
+PHN,Port Huron,MI,USA
+PHO,Point Hope,AK,USA
+PHP,Philip,SD,USA
+PHT,Paris,TN,USA
+PHX,Phoenix,AZ,USA
+PIA,Peoria,IL,USA
+PIB,Hattiesburg-Laurel,MS,USA
+PIE,St. Petersburg,FL,USA
+PIH,Pocatello,ID,USA
+PIL,Port Isabel,TX,USA
+PIM,Pine Mountain,GA,USA
+PIR,Pierre,SD,USA
+PIT,Pittsburgh,PA,USA
+PIZ,Point Lay,AK,USA
+PJY,Pinckneyville-Duquoin,IL,USA
+PKA,Napaskiak,AK,USA
+PKB,Parkersburg,WV,USA
+PKD,Park Rapids,MN,USA
+PKF,Park Falls,WI,USA
+PLB,Plattsburgh,NY,USA
+PLD,Portland,IN,USA
+PLN,Pellston,MI,USA
+PLR,Pell City,AL,USA
+PMB,Pembina,ND,USA
+PMD,Palmdale,CA,USA
+PMH,Portsmouth,OH,USA
+PMP,Pompano Beach,FL,USA
+PMV,Plattsmouth,NE,USA
+PMX,Palmer,MA,USA
+PMZ,Plymouth,NC,USA
+PNA,Pinedale,WY,USA
+PNC,Ponca City,OK,USA
+PNE,Philadelphia,PA,USA
+PNM,Princeton,MN,USA
+PNN,Princeton,ME,USA
+PNP,Pilot Point,AK,USA
+PNS,Pensacola,FL,USA
+POC,La Verne,CA,USA
+POF,Poplar Bluff,MO,USA
+POH,Pocahontas,IA,USA
+POU,Poughkeepsie,NY,USA
+POY,Powell,WY,USA
+PPA,Pampa,TX,USA
+PPC,Prospect Creek,AK,USA
+PPF,Parsons,KS,USA
+PPG,Pago Pago,AS,USA
+PPO,La Porte,IN,USA
+PPQ,Pittsfield,IL,USA
+PQI,Presque Isle,ME,USA
+PQL,Pascagoula,MS,USA
+PQN,Pipestone,MN,USA
+PR03,Fajardo,PR,USA
+PRB,Paso Robles,CA,USA
+PRC,Prescott,AZ,USA
+PRG,Paris,IL,USA
+PRN,Greenville,AL,USA
+PRO,Perry,IA,USA
+PRX,Paris,TX,USA
+PSB,Philipsburg,PA,USA
+PSC,Pasco,WA,USA
+PSE,Ponce,PR,USA
+PSF,Pittsfield,MA,USA
+PSG,Petersburg,AK,USA
+PSK,Dublin,VA,USA
+PSM,Portsmouth,NH,USA
+PSN,Palestine,TX,USA
+PSP,Palm Springs,CA,USA
+PSX,Palacios,TX,USA
+PTB,Petersburg,VA,USA
+PTD,Potsdam,NY,USA
+PTH,Port Heiden,AK,USA
+PTK,Pontiac,MI,USA
+PTN,Patterson,LA,USA
+PTS,Pittsburg,KS,USA
+PTT,Pratt,KS,USA
+PTU,Platinum,AK,USA
+PTV,Porterville,CA,USA
+PTW,Pottstown,PA,USA
+PUB,Pueblo,CO,USA
+PUC,Price,UT,USA
+PUW,"Pullman/Moscow,ID",WA,USA
+PVB,Platteville,WI,USA
+PVC,Provincetown,MA,USA
+PVD,Providence,RI,USA
+PVF,Placerville,CA,USA
+PVG,Portsmouth,VA,USA
+PVJ,Pauls Valley,OK,USA
+PVU,Provo,UT,USA
+PVW,Plainview,TX,USA
+PWA,Oklahoma City,OK,USA
+PWC,Pine River,MN,USA
+PWD,Plentywood,MT,USA
+PWG,Waco,TX,USA
+PWK,Chicago/Wheeling/Prospect Heights,IL,USA
+PWM,Portland,ME,USA
+PWT,Bremerton,WA,USA
+PXE,Perry,GA,USA
+PYG,Pageland,SC,USA
+PYM,Plymouth,MA,USA
+PYX,Perryton,TX,USA
+PZQ,Rogers City,MI,USA
+Q00,Littlefield,TX,USA
+Q06,Tulia,TX,USA
+Q14,Espanola,NM,USA
+Q16,Reserve,NM,USA
+Q17,Boonville,CA,USA
+Q21,Brownsville,CA,USA
+Q24,Levelland,TX,USA
+Q25,Dinsmore,CA,USA
+Q26,Brownfield,TX,USA
+Q31,Visalia,CA,USA
+Q34,Portales,NM,USA
+Q35,Springerville,AZ,USA
+Q37,Carrizozo,NM,USA
+Q41,Floydada,TX,USA
+Q42,Springer,NM,USA
+Q44,Beaver,OK,USA
+Q49,Firebaugh,CA,USA
+Q53,Franklin,CA,USA
+Q55,Dimmitt,TX,USA
+Q58,Santa Rosa,NM,USA
+Q61,Georgetown,CA,USA
+Q68,Groveland,CA,USA
+Q72,Hayfork,CA,USA
+Q84,Mendota,CA,USA
+Q88,Paradise,CA,USA
+Q94,Rio Linda,CA,USA
+Q95,Ruth,CA,USA
+Q99,San Martin,CA,USA
+RAC,Racine,WI,USA
+RAL,Riverside,CA,USA
+RAP,Rapid City,SD,USA
+RBD,Dallas,TX,USA
+RBE,Bassett,NE,USA
+RBG,Roseburg,OR,USA
+RBL,Red Bluff,CA,USA
+RBW,Walterboro,SC,USA
+RBY,Ruby,AK,USA
+RCA,NA,NA,USA
+RCR,Rochester,IN,USA
+RCX,Ladysmith,WI,USA
+RDD,Redding,CA,USA
+RDG,Reading,PA,USA
+RDK,Red Oak,IA,USA
+RDM,Redmond,OR,USA
+RDR,NA,NA,USA
+RDU,Raleigh,NC,USA
+RDV,Red Devil,AK,USA
+RED,Red Lodge,MT,USA
+RFD,Rockford,IL,USA
+RFG,Refugio,TX,USA
+RGK,Red Wing,MN,USA
+RHI,Rhinelander,WI,USA
+RHV,San Jose,CA,USA
+RIC,Richmond,VA,USA
+RID,Richmond,IN,USA
+RIF,Richfield,UT,USA
+RIL,Rifle,CO,USA
+RIU,Rancho Murieta,CA,USA
+RIV,Riverside,CA,USA
+RIW,Riverton,WY,USA
+RKD,Rockland,ME,USA
+RKP,Rockport,TX,USA
+RKR,Poteau,OK,USA
+RKS,Rock Springs,WY,USA
+RKW,Rockwood,TN,USA
+RLD,Richland,WA,USA
+RME,Rome,NY,USA
+RMG,Rome,GA,USA
+RMP,Rampart,AK,USA
+RMY,Marshall,MI,USA
+RNC,McMinnville,TN,USA
+RNH,New Richmond,WI,USA
+RNM,Ramona,CA,USA
+RNO,Reno,NV,USA
+RNT,Renton,WA,USA
+RNV,Cleveland,MS,USA
+ROA,Roanoke,VA,USA
+ROC,Rochester,NY,USA
+ROG,Rogers,AR,USA
+ROP,NA,NA,Thailand
+ROR,NA,NA,Palau
+ROS,Rush City,MN,USA
+ROW,Roswell,NM,USA
+ROX,Roseau,MN,USA
+RPB,Belleville,KS,USA
+RPD,Rice Lake,WI,USA
+RPX,Roundup,MT,USA
+RQB,Big Rapids,MI,USA
+RQE,Window Rock,AZ,USA
+RRL,Merrill,WI,USA
+RRT,Warroad,MN,USA
+RSH,Russian Mission,AK,USA
+RSL,Russell,KS,USA
+RSN,Ruston,LA,USA
+RST,Rochester,MN,USA
+RSV,Robinson,IL,USA
+RSW,Ft. Myers,FL,USA
+RTN,Raton,NM,USA
+RUE,Russellville,AR,USA
+RUG,Rugby,ND,USA
+RUQ,Salisbury,NC,USA
+RUT,Rutland,VT,USA
+RVJ,Reidsville,GA,USA
+RVL,Reedsville,PA,USA
+RVN,Rogersville,TN,USA
+RVS,Tulsa,OK,USA
+RWF,Redwood Falls,MN,USA
+RWI,Rocky Mount,NC,USA
+RWL,Rawlins,WY,USA
+RWN,Winamac,IN,USA
+RXE,Rexburg,ID,USA
+RYN,Tucson,AZ,USA
+RYV,Watertown,WI,USA
+RYY,Marietta,GA,USA
+RZL,Rensselaer,IN,USA
+RZN,Siren,WI,USA
+RZT,Chillicothe,OH,USA
+RZZ,Roanoke Rapids,NC,USA
+S01,Conrad,MT,USA
+S03,Ashland,OR,USA
+S05,Bandon,OR,USA
+S07,Bend,OR,USA
+S10,Chelan,WA,USA
+S12,Albany,OR,USA
+S18,Forks,WA,USA
+S21,Sunriver,OR,USA
+S23,Ione,WA,USA
+S24,Fremont,OH,USA
+S25,Watford City,ND,USA
+S27,Kalispell,MT,USA
+S28,Dunseith,ND,USA
+S30,Lebanon,OR,USA
+S31,Lopez,WA,USA
+S32,Cooperstown,ND,USA
+S33,Madras,OR,USA
+S34,Plains,MT,USA
+S39,Prineville,OR,USA
+S40,Prosser,WA,USA
+S43,Snohomish,WA,USA
+S45,Siletz Bay (Gleneden Beach),OR,USA
+S47,Tillamook,OR,USA
+S50,Auburn,WA,USA
+S52,Winthrop,WA,USA
+S59,Libby,MT,USA
+S60,Kenmore,WA,USA
+S64,Stanford,MT,USA
+S66,Homedale,ID,USA
+S67,Nampa,ID,USA
+S68,Orofino,ID,USA
+S69,Lincoln,MT,USA
+S70,Othello,WA,USA
+S71,Chinook,MT,USA
+S72,St Maries,ID,USA
+S73,Kamiah,ID,USA
+S80,Grangeville,ID,USA
+S83,Kellogg,ID,USA
+S85,Culbertson,MT,USA
+S87,Weiser,ID,USA
+S89,Craigmont,ID,USA
+S93,Cle Elum,WA,USA
+S94,Colfax,WA,USA
+S97,Brewster,WA,USA
+SAA,Saratoga,WY,USA
+SAC,Sacramento,CA,USA
+SAD,Safford,AZ,USA
+SAF,Santa Fe,NM,USA
+SAN,San Diego,CA,USA
+SAR,Sparta,IL,USA
+SAT,San Antonio,TX,USA
+SAV,Savannah,GA,USA
+SAW,Gwinn,MI,USA
+SAZ,Staples,MN,USA
+SBA,Santa Barbara,CA,USA
+SBD,San Bernardino,CA,USA
+SBM,Sheboygan,WI,USA
+SBN,South Bend,IN,USA
+SBO,Swainsboro,GA,USA
+SBP,San Luis Obispo,CA,USA
+SBS,Steamboat Springs,CO,USA
+SBU,Blue Earth,MN,USA
+SBX,Shelby,MT,USA
+SBY,Salisbury,MD,USA
+SCB,Scribner,NE,USA
+SCC,Deadhorse,AK,USA
+SCD,Sylacauga,AL,USA
+SCE,NA,NA,USA
+SCH,Schenectady,NY,USA
+SCK,Stockton,CA,USA
+SCM,Scammon Bay,AK,USA
+SCX,Oneida,TN,USA
+SD07,Bison,SD,USA
+SD10,Canton,SD,USA
+SD12,De Smet,SD,USA
+SD16,Eureka,SD,USA
+SD18,Flandreau,SD,USA
+SD22,Hoven,SD,USA
+SD28,McLaughlin,SD,USA
+SD32,Murdo,SD,USA
+SD33,Parkston,SD,USA
+SD34,Presho,SD,USA
+SDA,Shenandoah,IA,USA
+SDF,Louisville,KY,USA
+SDL,Scottsdale,AZ,USA
+SDM,San Diego,CA,USA
+SDP,Sand Point,AK,USA
+SDY,Sidney,MT,USA
+SEA,Seattle,WA,USA
+SEE,San Diego (El Cajon),CA,USA
+SEF,Sebring,FL,USA
+SEG,Selinsgrove,PA,USA
+SEM,Selma,AL,USA
+SEP,Stephenville,TX,USA
+SER,Seymour,IN,USA
+SET,St Charles,MO,USA
+SEZ,Sedona,AZ,USA
+SFB,Orlando,FL,USA
+SFD,Winner,SD,USA
+SFF,Spokane,WA,USA
+SFM,Sanford,ME,USA
+SFO,San Francisco,CA,USA
+SFQ,Suffolk,VA,USA
+SFY,Savanna,IL,USA
+SFZ,Pawtucket,RI,USA
+SGF,Springfield,MO,USA
+SGH,Springfield,OH,USA
+SGJ,St. Augustine,FL,USA
+SGR,Houston,TX,USA
+SGS,South St Paul,MN,USA
+SGT,Stuttgart,AR,USA
+SGU,St George,UT,USA
+SGY,Skagway,AK,USA
+SHD,Staunton/Harrisonburg,VA,USA
+SHG,Shungnak,AK,USA
+SHH,Shishmaref,AK,USA
+SHL,Sheldon,IA,USA
+SHN,Shelton,WA,USA
+SHR,Sheridan,WY,USA
+SHV,Shreveport,LA,USA
+SHX,Shageluk,AK,USA
+SIG,San Juan,PR,USA
+SIK,Sikeston,MO,USA
+SIT,Sitka,AK,USA
+SIV,Sullivan,IN,USA
+SIY,Montague,CA,USA
+SJC,San Jose,CA,USA
+SJN,St Johns,AZ,USA
+SJT,San Angelo,TX,USA
+SJU,San Juan,PR,USA
+SJX,St James,MI,USA
+SKA,NA,NA,USA
+SKI,Sac City,IA,USA
+SKW,Skwentna,AK,USA
+SKX,Taos,NM,USA
+SLB,Storm Lake,IA,USA
+SLC,Salt Lake City,UT,USA
+SLE,Salem,OR,USA
+SLG,Siloam Springs,AR,USA
+SLK,Saranac Lake,NY,USA
+SLN,Salina,KS,USA
+SLO,Salem,IL,USA
+SLQ,Sleetmute,AK,USA
+SLR,Sulphur Springs,TX,USA
+SMD,Fort Wayne,IN,USA
+SME,Somerset,KY,USA
+SMF,Sacramento,CA,USA
+SMN,Salmon,ID,USA
+SMO,Santa Monica,CA,USA
+SMQ,Somerville,NJ,USA
+SMS,Sumter,SC,USA
+SMX,Santa Maria,CA,USA
+SNA,Santa Ana,CA,USA
+SNH,Savannah,TN,USA
+SNK,Snyder,TX,USA
+SNL,Shawnee,OK,USA
+SNP,St. Paul,AK,USA
+SNS,Salinas,CA,USA
+SNY,Sidney,NE,USA
+SOP,Pinehurst/Southern Pines,NC,USA
+SOV,Seldovia,AK,USA
+SOW,Show Low,AZ,USA
+SPA,Spartanburg,SC,USA
+SPB,Scappoose,OR,USA
+SPF,Spearfish,SD,USA
+SPG,St. Petersburg,FL,USA
+SPH,Springhill,LA,USA
+SPI,Springfield,IL,USA
+SPN,NA,NA,N Mariana Islands
+SPS,Wichita Falls,TX,USA
+SPW,Spencer,IA,USA
+SPX,Houston,TX,USA
+SQI,Sterling Rockfalls,IL,USA
+SQL,San Carlos,CA,USA
+SRB,Sparta,TN,USA
+SRC,Searcy,AR,USA
+SRQ,Sarasota,FL,USA
+SRR,Ruidoso,NM,USA
+SRV,Stony River,AK,USA
+SSF,San Antonio,TX,USA
+SSI,Brunswick,GA,USA
+SSQ,Shell Lake,WI,USA
+STC,St Cloud,MN,USA
+STE,Stevens Point,WI,USA
+STF,Starkville,MS,USA
+STJ,St Joseph,MO,USA
+STK,Sterling,CO,USA
+STL,St Louis,MO,USA
+STP,St Paul,MN,USA
+STS,Santa Rosa,CA,USA
+STT,Charlotte Amalie,VI,USA
+STX,Christiansted,VI,USA
+SUA,Stuart,FL,USA
+SUD,Stroud,OK,USA
+SUE,Sturgeon Bay,WI,USA
+SUN,Hailey,ID,USA
+SUS,St Louis,MO,USA
+SUT,Southport,NC,USA
+SUW,Superior,WI,USA
+SUX,Sioux City,IA,USA
+SVA,Savoonga,AK,USA
+SVC,Silver City,NM,USA
+SVE,Susanville,CA,USA
+SVH,Statesville,NC,USA
+SVS,Stevens Village,AK,USA
+SWD,Seward,AK,USA
+SWF,Newburgh,NY,USA
+SWO,Stillwater,OK,USA
+SWT,Seward,NE,USA
+SWW,Sweetwater,TX,USA
+SXL,Summersville,WV,USA
+SXP,Sheldon Point,AK,USA
+SXQ,Soldotna,AK,USA
+SYF,St Francis,KS,USA
+SYI,Shelbyville,TN,USA
+SYR,Syracuse,NY,USA
+SYV,Sylvester,GA,USA
+SZP,Santa Paula,CA,USA
+SZT,Sandpoint,ID,USA
+SZY,Selmer,TN,USA
+T00,Anahauac,TX,USA
+T03,Tuba City,AZ,USA
+T08,Tomahawk,WI,USA
+T18,Falfurrias,TX,USA
+T28,Lampasas,TX,USA
+T35,Cameron,TX,USA
+T36,Tylertown,MS,USA
+T41,La Porte,TX,USA
+T44,Kodiak,AK,USA
+T47,Wichita Falls,TX,USA
+T49,Big Spring,TX,USA
+T53,Robstown,TX,USA
+T56,Crockett,TX,USA
+T57,Garland,TX,USA
+T60,Aspermont,TX,USA
+T65,Weslaco,TX,USA
+T69,Sinton,TX,USA
+T71,Cuero,TX,USA
+T72,Hearne,TX,USA
+T74,Taylor,TX,USA
+T78,Liberty,TX,USA
+T80,Kingsville,TX,USA
+T82,Fredericksburg,TX,USA
+T89,Castroville,TX,USA
+T90,Winnie/Stowell,TX,USA
+T97,Port Lavaca,TX,USA
+TAD,Trinidad,CO,USA
+TAL,Tanana,AK,USA
+TAN,Taunton,MA,USA
+TAZ,Taylorville,IL,USA
+TBN,Fort Leonard Wood,MO,USA
+TBR,Statesboro,GA,USA
+TCC,Tucumcari,NM,USA
+TCL,Tuscaloosa,AL,USA
+TCS,Truth Or Consequences,NM,USA
+TCT,Takotna,AK,USA
+TCY,Tracy,CA,USA
+TDF,Roxboro,NC,USA
+TDO,Toledo,WA,USA
+TDZ,Toledo,OH,USA
+TEB,Teterboro,NJ,USA
+TEL,Tell City,IN,USA
+TEW,Mason,MI,USA
+TEX,Telluride,CO,USA
+TGC,Trenton,TN,USA
+TGI,Tangier,VA,USA
+THA,Tullahoma,TN,USA
+THM,Thompson Falls,MT,USA
+THP,Thermopolis,WY,USA
+THV,York,PA,USA
+TIW,Tacoma,WA,USA
+TIX,Titusville,FL,USA
+TKA,Talkeetna,AK,USA
+TKE,Tenakee Springs,AK,USA
+TKI,McKinney,TX,USA
+TKX,Kennett,MO,USA
+TLH,Tallahassee,FL,USA
+TLR,Tulare,CA,USA
+TLT,Tuluksak,AK,USA
+TMA,Tifton,GA,USA
+TMB,Miami,FL,USA
+TNI,Peipeinimaru,CQ,USA
+TNP,Twentynine Palms,CA,USA
+TNT,Miami,FL,USA
+TNU,Newton,IA,USA
+TOA,Torrance,CA,USA
+TOB,Dodge Center,MN,USA
+TOC,Toccoa,GA,USA
+TOG,Togiak,AK,USA
+TOI,Troy,AL,USA
+TOL,Toledo,OH,USA
+TOP,Topeka,KS,USA
+TOR,Torrington,WY,USA
+TPA,Tampa,FL,USA
+TPF,Tampa,FL,USA
+TPH,Tonopah,NV,USA
+TPL,Temple,TX,USA
+TPO,Port Alsworth,AK,USA
+TQE,Tekamah,NE,USA
+TQH,Tahlequah,OK,USA
+TQK,Scott City,KS,USA
+TRI,Bristol,TN,USA
+TRK,Truckee,CA,USA
+TRL,Terrell,TX,USA
+TRM,Palm Springs,CA,USA
+TRX,Trenton,MO,USA
+TSO,Carrollton,OH,USA
+TSP,Tehachapi,CA,USA
+TT01,Shomu-Shon,CQ,USA
+TTA,Sanford,NC,USA
+TTD,Portland,OR,USA
+TTF,Monroe,MI,USA
+TTN,Trenton,NJ,USA
+TUL,Tulsa,OK,USA
+TUP,Tupelo,MS,USA
+TUS,Tucson,AZ,USA
+TVB,Cabool,MO,USA
+TVC,Traverse City,MI,USA
+TVF,Thief River Falls,MN,USA
+TVI,Thomasville,GA,USA
+TVK,Centerville,IA,USA
+TVL,South Lake Tahoe,CA,USA
+TVR,Tallulah,LA,USA
+TVY,Tooele,UT,USA
+TWF,Twin Falls,ID,USA
+TWM,Two Harbors,MN,USA
+TXK,Texarkana,AR,USA
+TYL,Taylor,AZ,USA
+TYQ,Indianapolis,IN,USA
+TYR,Tyler,TX,USA
+TYS,Knoxville,TN,USA
+TZR,Columbus,OH,USA
+TZT,Belle Plaine,IA,USA
+TZV,Tompkinsville,KY,USA
+U02,Blackfoot,ID,USA
+U03,Buhl,ID,USA
+U05,Philipsburg,MT,USA
+U08,Overton,NV,USA
+U10,Preston,ID,USA
+U14,Nephi,UT,USA
+U25,Dubois,WY,USA
+U30,Temple Bar,AZ,USA
+U34,Green River,UT,USA
+U36,Aberdeen,ID,USA
+U42,Salt Lake City,UT,USA
+U43,Monticello,UT,USA
+U52,Beaver,UT,USA
+U55,Panguitch,UT,USA
+U59,Driggs,ID,USA
+U68,Cowley/Lovell/Byron,WY,USA
+U69,Duchesne,UT,USA
+U70,Cascade,ID,USA
+U76,Mountain Home,ID,USA
+U77,Spanish Fork,UT,USA
+U82,Council,ID,USA
+U96,Halls Crossing,UT,USA
+UAO,Aurora,OR,USA
+UBE,Cumberland,WI,USA
+UBS,Columbus,MS,USA
+UBX,Cuba,MO,USA
+UCA,Utica,NY,USA
+UCP,New Castle,PA,USA
+UCY,Union City,TN,USA
+UDD,Palm Springs,CA,USA
+UDG,Darlington,SC,USA
+UES,Waukesha,WI,USA
+UGN,Chicago/Waukegan,IL,USA
+UIL,Forks,WA,USA
+UIN,Quincy,IL,USA
+UIZ,Utica,MI,USA
+UKF,North Wilkesboro,NC,USA
+UKI,Ukiah,CA,USA
+UKL,Burlington,KS,USA
+UKT,Quakertown,PA,USA
+ULM,New Ulm,MN,USA
+ULS,Ulysses,KS,USA
+UMP,Indianapolis,IN,USA
+UNI,Athens/Albany,OH,USA
+UNK,Unalakleet,AK,USA
+UNO,West Plains,MO,USA
+UNU,Juneau,WI,USA
+UNV,State College,PA,USA
+UOS,Sewanee,TN,USA
+UOX,Oxford,MS,USA
+UPP,Hawi,HI,USA
+USE,Wauseon,OH,USA
+UTS,Huntsville,TX,USA
+UUO,Willow,AK,USA
+UUU,Newport,RI,USA
+UUV,Sullivan,MO,USA
+UVA,Uvalde,TX,USA
+UWL,New Castle,IN,USA
+UYF,London,OH,USA
+UZA,Rock Hill,SC,USA
+VAK,Chevak,AK,USA
+VAY,Mount Holly,NJ,USA
+VBT,Bentonville,AR,USA
+VCB,Vacaville,CA,USA
+VCT,Victoria,TX,USA
+VCV,Victorville,CA,USA
+VDI,Vidalia,GA,USA
+VDZ,Valdez,AK,USA
+VEE,Venetie,AK,USA
+VEL,Vernal,UT,USA
+VER,Boonville,MO,USA
+VES,Versailles,OH,USA
+VGT,Las Vegas,NV,USA
+VHN,Van Horn,TX,USA
+VIH,Rolla/Vichy,MO,USA
+VIQ,Neillsville,WI,USA
+VIS,Visalia,CA,USA
+VJI,Abingdon,VA,USA
+VLA,Vandalia,IL,USA
+VLD,Valdosta,GA,USA
+VMR,Vermillion,SD,USA
+VNC,Venice,FL,USA
+VNW,Van Wert,OH,USA
+VNY,Van Nuys,CA,USA
+VPC,Cartersville,GA,USA
+VPS,Valparaiso,FL,USA
+VPZ,Valparaiso,IN,USA
+VQQ,Jacksonville,FL,USA
+VQS,Isla De Vieques,PR,USA
+VRB,Vero Beach,FL,USA
+VSF,Springfield,VT,USA
+VTA,Newark,OH,USA
+VTI,Vinton,IA,USA
+VTN,Valentine,NE,USA
+VUJ,Albemarle,NC,USA
+VUO,Vancouver,WA,USA
+VVV,Ortonville,MN,USA
+VYS,Peru/Lasalle,IL,USA
+W04,Ocean Shores,WA,USA
+W05,Gettysburg,PA,USA
+W11,Menomonie,WI,USA
+W22,Buckhannon,WV,USA
+W29,Stevensville,MD,USA
+W31,Kenbridge,VA,USA
+W33,Friday Harbor,WA,USA
+W40,Mt Olive,NC,USA
+W41,Crisfield,MD,USA
+W44,Asheboro,NC,USA
+W45,Luray,VA,USA
+W66,Warrenton,VA,USA
+W78,South Boston,VA,USA
+W95,Ocracoke,NC,USA
+W96,Quinton,VA,USA
+W97,West Point,VA,USA
+W99,Petersburg,WV,USA
+WA10,Camas/Washougal,WA,USA
+WA21,Electric City,WA,USA
+WA31,Langley,WA,USA
+WA43,Odessa,WA,USA
+WAY,Waynesburg,PA,USA
+WBB,Stebbins,AK,USA
+WBQ,Beaver,AK,USA
+WBW,Wilkes-Barre,PA,USA
+WCR,Chandalar Lake,AK,USA
+WDG,Enid,OK,USA
+WDR,Winder,GA,USA
+WHP,Los Angeles,CA,USA
+WJF,Lancaster,CA,USA
+WLD,Winfield/Arkansas City,KS,USA
+WLK,Selawik,AK,USA
+WLW,Willows,CA,USA
+WMC,Winnemucca,NV,USA
+WMO,White Mountain,AK,USA
+WNA,Napakiak,AK,USA
+WRG,Wrangell,AK,USA
+WRL,Worland,WY,USA
+WSM,Wiseman,AK,USA
+WSN,South Naknek,AK,USA
+WST,Westerly,RI,USA
+WTK,Noatak,AK,USA
+WVI,Watsonville,CA,USA
+WVL,Waterville,ME,USA
+WWD,Wildwood,NJ,USA
+WWR,Woodward,OK,USA
+WYS,West Yellowstone,MT,USA
+X01,Everglades,FL,USA
+X06,Arcadia,FL,USA
+X07,Lake Wales,FL,USA
+X10,Belle Glade,FL,USA
+X14,Labelle,FL,USA
+X16,Tampa,FL,USA
+X21,Titusville,FL,USA
+X23,Umatilla,FL,USA
+X26,Sebastian,FL,USA
+X35,Dunellon,FL,USA
+X40,Inverness,FL,USA
+X44,Miami,FL,USA
+X46,Miami,FL,USA
+X47,Bunnell,FL,USA
+X51,Homestead,FL,USA
+X59,Valkaria,FL,USA
+X60,Williston,FL,USA
+X63,Humacao,PR,USA
+X66,Charlotte Amalie,VI,USA
+X67,Christiansted,VI,USA
+X95,Fajardo,PR,USA
+X96,Cruz Bay,VI,USA
+XNA,Fayetteville/Springdale/Rogers,AR,USA
+XVG,Longville,MN,USA
+Y03,Springfield,SD,USA
+Y14,Tea,SD,USA
+Y15,Cheboygan,MI,USA
+Y19,Mandan,ND,USA
+Y27,Fort Yates,ND,USA
+Y31,West Branch,MI,USA
+Y37,Park River,ND,USA
+Y47,New Hudson,MI,USA
+Y50,Wautoma,WI,USA
+Y51,Viroqua,WI,USA
+Y55,Crandon,WI,USA
+Y63,Elbow Lake,MN,USA
+Y66,Drummond Island,MI,USA
+Y68,Tracy,MN,USA
+Y70,Ionia,MI,USA
+Y74,Parshall,ND,USA
+Y83,Sandusky,MI,USA
+Y93,Atlanta,MI,USA
+YAK,Yakutat,AK,USA
+YAP,NA,NA,Federated States of Micronesia
+YIP,Detroit,MI,USA
+YKM,Yakima,WA,USA
+YKN,Yankton,SD,USA
+YNG,Youngstown,OH,USA
+YUM,Yuma,AZ,USA
+Z08,Ofu Village,AS,USA
+Z09,Kasigluk,AK,USA
+Z13,Akiachak,AK,USA
+Z17,Ophir,AK,USA
+Z40,Goose Bay,AK,USA
+Z55,Lake Louise,AK,USA
+Z73,Nelson Lagoon,AK,USA
+Z84,Clear A.F.B.,AK,USA
+Z91,Birch Creek,AK,USA
+Z95,Cibecue,AZ,USA
+ZEF,Elkin,NC,USA
+ZER,Pottsville,PA,USA
+ZPH,Zephyrhills,FL,USA
+ZUN,Zuni,NM,USA
+ZZV,Zanesville,OH,USA
