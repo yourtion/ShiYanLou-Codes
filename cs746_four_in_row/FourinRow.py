@@ -1,24 +1,27 @@
+#-*- coding=utf8 -*-
 #!/usr/bin/python
 import random, copy, sys, pygame
 from pygame.locals import *
 
-BOARDWIDTH = 7  
-BOARDHEIGHT = 6 
+BOARDWIDTH = 7 # 棋子盘的宽度栏数
+BOARDHEIGHT = 6 # 棋子盘的高度栏数
 assert BOARDWIDTH >= 4 and BOARDHEIGHT >= 4, 'Board must be at least 4x4.'
+# assert断言是声明其布尔值必须为真的判定，如果发生异常就说明表达示为假。 
+# 可以理解assert断言语句为raise-if-not，用来测试表示式，其返回值为假，就会触发异常。
 
-DIFFICULTY = 2 
+DIFFICULTY = 2 # 难度系数，计算机能够考虑的移动级别 
+# 这里2表示，考虑对手走棋的7种可能性及如何应对对手的7种走法
 
-SPACESIZE = 50 
+SPACESIZE = 50 # 棋子的大小
 
-FPS = 30 
-WINDOWWIDTH = 640 
-WINDOWHEIGHT = 480 
+FPS = 30 # 屏幕的更新频率，即30/s
+WINDOWWIDTH = 640  # 游戏屏幕的宽度像素
+WINDOWHEIGHT = 480 # 游戏屏幕的高度像素
 
-XMARGIN = int((WINDOWWIDTH - BOARDWIDTH * SPACESIZE) / 2)
-YMARGIN = int((WINDOWHEIGHT - BOARDHEIGHT * SPACESIZE) / 2)
-
-BRIGHTBLUE = (0, 50, 255)
-WHITE = (255, 255, 255)
+XMARGIN = int((WINDOWWIDTH - BOARDWIDTH * SPACESIZE) / 2) # X边缘坐标量，即格子栏的最左边
+YMARGIN = int((WINDOWHEIGHT - BOARDHEIGHT * SPACESIZE) / 2) # Y边缘坐标量，即格子栏的最上边
+BRIGHTBLUE = (0, 50, 255) # 蓝色
+WHITE = (255, 255, 255) # 白色
 
 BGCOLOR = BRIGHTBLUE
 TEXTCOLOR = WHITE
@@ -35,11 +38,17 @@ def main():
   global BLACKTOKENIMG, BOARDIMG, ARROWIMG, ARROWRECT, HUMANWINNERIMG
   global COMPUTERWINNERIMG, WINNERRECT, TIEWINNERIMG
 
+  # 初始化pygame的各个模块
   pygame.init()
+  # 初始化了一个Clock对象
   FPSCLOCK = pygame.time.Clock()
+  # 创建游戏窗口
   DISPLAYSURF = pygame.display.set_mode((WINDOWWIDTH, WINDOWHEIGHT))
+  # 游戏窗口标题
   pygame.display.set_caption('Four in a Row')
+  # Rect(left,top,width,height)用来定义位置和宽高
   REDPILERECT = pygame.Rect(int(SPACESIZE / 2), WINDOWHEIGHT - int(3 * SPACESIZE / 2), SPACESIZE, SPACESIZE)
+  # 这里创建的是窗口中左下角和右下角的棋子
   BLACKPILERECT = pygame.Rect(WINDOWWIDTH - int(3 * SPACESIZE / 2), WINDOWHEIGHT - int(3 * SPACESIZE / 2), SPACESIZE, SPACESIZE)
   REDTOKENIMG = pygame.image.load('images/red.png')    
   REDTOKENIMG = pygame.transform.smoothscale(REDTOKENIMG, (SPACESIZE, SPACESIZE))
