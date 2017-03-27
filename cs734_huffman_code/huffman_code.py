@@ -259,7 +259,7 @@ def compress(inputfilename, outputfilename):
         key = six.byte2int(filedata[i])
         code = code + char_freq[key]
         out = 0
-        while len(code)>8:
+        while len(code)>=8:
             for x in range(8):
                 out = out<<1
                 if code[x] == '1':
@@ -361,7 +361,7 @@ def decompress(inputfilename, outputfilename):
                 output.write(tem_byte)
                 currnode = tem.get_root()
 
-            if code[0] == 1:
+            if code[0] == '1':
                 currnode = currnode.get_right()
             else:
                 currnode = currnode.get_left()
