@@ -181,12 +181,18 @@ def compress_test(inputfile):
 
 def compress(inputfilename, outputfilename):
     """
-    压缩
+    压缩文件，参数有 
+    inputfilename：被压缩的文件的地址和名字
+    outputfilename：压缩文件的存放地址和名字
     """
+    #1. 以二进制的方式打开文件 
     f = open(inputfilename, 'rb')
     filedata = f.read()
+    # 获取文件的字节总数
     filesize = f.tell()
 
+    # 2. 统计 byte的取值［0-255］ 的每个值出现的频率
+    # 保存在字典 char_freq中
     char_freq = {}
     for x in range(filesize):
         tem = six.byte2int(filedata[x])
@@ -195,17 +201,24 @@ def compress(inputfilename, outputfilename):
         else:
             char_freq[tem] = 1
 
+    # 输出统计结果
     for tem in char_freq.keys():
         print tem, ' : ', char_freq[tem]
 
+    # 3. 开始构造原始的huffman编码树 数组，用于构造Huffman编码树
     list_hufftrees = []
+    # 使用 HuffTree的构造函数 定义一棵只包含一个叶节点的Huffman树
     for x in char_freq.keys():
         tem = HuffTree(0, x, char_freq[x], None, None)
+        # 将其添加到数组 list_hufftrees 当中
         list_hufftrees.append(tem)
 
+    # 4. 步骤2中获取到的 每个值出现的频率的信息
+    # 4.1. 保存叶节点的个数
     length = len(char_freq.keys())
     output = open(outputfilename, 'wb')
 
+    # 一个int型的数有四个字节，所以将其分成四个字节写入到输出文件当中
     a4 = length&255
     length = length>>8
     a3 = length&255
@@ -218,9 +231,12 @@ def compress(inputfilename, outputfilename):
     output.write(six.int2byte(a3))
     output.write(six.int2byte(a4))
 
+    # 4.2  每个值 及其出现的频率的信息
+    # 遍历字典 char_freq
     for x in char_freq.keys():
         output.write(six.int2byte(x))
         temp = char_freq[x]
+        # 同样出现的次数 是int型，分成四个字节写入到压缩文件当中
         a4 = temp&255
         temp = temp>>8
         a3 = temp&255
@@ -233,9 +249,11 @@ def compress(inputfilename, outputfilename):
         output.write(six.int2byte(a3))
         output.write(six.int2byte(a4))
 
+    # 同样出现的次数 是int型，分成四个字节写入到压缩文件当中
     tem = build_huffman_tree(list_hufftrees)
     tem.traverse_huffman_tree(tem.get_root(), '', char_freq)
 
+    # 6. 开始对文件进行压缩
     code = ''
     for i in range(filesize):
         key = six.byte2int(filedata[i])
@@ -249,28 +267,37 @@ def compress(inputfilename, outputfilename):
             code = code[8:]
             output.write(six.int2byte(out))
             out = 0
-    
+
+    # 处理剩下来的不满8位的code
     output.write(six.int2byte(len(code)))
     out = 0
-    
+
     for i in range(len(code)):
         out = out<<1
         if code[i] == '1':
             out = out | 1
     for i in range(8-len(code)):
         out = out<<1
-    
+
+    # 把最后一位给写入到文件当中
     output.write(six.int2byte(out))
+    # 6. 关闭输出文件，文件压缩完毕
     output.close()
 
 def decompress(inputfilename, outputfilename):
     """
-    解压
+    解压缩文件，参数有
+    inputfilename：压缩文件的地址和名字
+    outputfilename：解压缩文件的存放地址和名字
     """
+    # 读取文件
     f = open(inputfilename, 'rb')
+    # 获取文件的字节总数
     filedata = f.read()
     filesize = f.tell()
 
+    # 1. 读取压缩文件中保存的树的叶节点的个数
+    # 一下读取 4个 字节，代表一个int型的值
     a1 = six.byte2int(filedata[0])
     a2 = six.byte2int(filedata[1])
     a3 = six.byte2int(filedata[2])
@@ -285,10 +312,13 @@ def decompress(inputfilename, outputfilename):
     j = j | a4
     leaf_node_size = j
 
+    # 2. 读取压缩文件中保存的相信的原文件中 ［0-255］出现的频率的信息
+    # 构造一个 字典 char_freq 一遍重建 Huffman编码树
     char_freq = {}
     for i in range(leaf_node_size):
         c = six.byte2int(filedata[4+i*5+0])
 
+        # 同样的，出现的频率是int型的，读区四个字节来读取到正确的数值
         a1 = six.byte2int(filedata[4+i*5+1])
         a2 = six.byte2int(filedata[4+i*5+2])
         a3 = six.byte2int(filedata[4+i*5+3])
@@ -304,6 +334,7 @@ def decompress(inputfilename, outputfilename):
         print c, j
         char_freq[c] = j
 
+    # 3. 重建huffman 编码树，和压缩文件中建立Huffman编码树的方法一致
     list_hufftrees = []
     for x in char_freq.keys():
         tem = HuffTree(0, x, char_freq[x], None, None)
@@ -311,6 +342,7 @@ def decompress(inputfilename, outputfilename):
     tem = build_huffman_tree(list_hufftrees)
     tem.traverse_huffman_tree(tem.get_root(), '', char_freq)
 
+    # 4. 使用步骤3中重建的huffman编码树，对压缩文件进行解压缩
     output = open(outputfilename, 'wb')
     code = ''
     currnode = tem.get_root()
@@ -335,12 +367,13 @@ def decompress(inputfilename, outputfilename):
                 currnode = currnode.get_left()
             code = code[1:]
 
+    # 4.1 处理最后 24位
     sub_code = code[-16:-8]
     last_length = 0
     for i in range(8):
         last_length = last_length << 1
         if sub_code[i] == '1':
-                last_length = last_length | 1
+            last_length = last_length | 1
     code = code[:-16] + code[-8:-8+last_length]
 
     while len(code) > 0:
@@ -360,6 +393,7 @@ def decompress(inputfilename, outputfilename):
         output.write(tem_byte)
         currnode = tem.get_root()
 
+    # 4. 关闭文件，解压缩完毕
     output.close()
 
 
@@ -382,4 +416,3 @@ if __name__ == '__main__':
         if FLAG == 'test':
             if INPUTFILE == 'compress':
                 compress_test(OUTPUTFILE)
-
